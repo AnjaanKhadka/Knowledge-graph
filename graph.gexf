@@ -1,0 +1,1971 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-08-13">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="the community schools of" label="the community schools of" />
+      <node id="day meal programme" label="day meal programme" />
+      <node id="251 community schools of" label="251 community schools of" />
+      <node id="the meal programme" label="the meal programme" />
+      <node id="the financial support of" label="the financial support of" />
+      <node id="students from" label="students from" />
+      <node id="day meal" label="day meal" />
+      <node id="the nongovernment organisations , corps , in coordination with" label="the nongovernment organisations , corps , in coordination with" />
+      <node id="available organic vegetables" label="available organic vegetables" />
+      <node id="the organisation" label="the organisation" />
+      <node id="the day meal" label="the day meal" />
+      <node id="organic vegetables" label="organic vegetables" />
+      <node id="to produce" label="to produce" />
+      <node id="priority" label="priority" />
+      <node id="to students" label="to students" />
+      <node id="students" label="students" />
+      <node id="nutritious food" label="nutritious food" />
+      <node id="we" label="we" />
+      <node id="food" label="food" />
+      <node id="it" label="it" />
+      <node id="the students" label="the students" />
+      <node id="school" label="school" />
+      <node id="all the students of bajura schools" label="all the students of bajura schools" />
+      <node id="bajura" label="bajura" />
+      <node id="2000" label="2000" />
+      <node id="the commission for" label="the commission for" />
+      <node id="a chargesheet" label="a chargesheet" />
+      <node id="the ciaa" label="the ciaa" />
+      <node id="a thorough investigation into his property status" label="a thorough investigation into his property status" />
+      <node id="a complaint of illegal assets" label="a complaint of illegal assets" />
+      <node id="ahamed" label="ahamed" />
+      <node id="income source" label="income source" />
+      <node id="a press release" label="a press release" />
+      <node id="illegal assets of" label="illegal assets of" />
+      <node id="he" label="he" />
+      <node id="legitimate sources" label="legitimate sources" />
+      <node id="evidences" label="evidences" />
+      <node id="houses" label="houses" />
+      <node id="land" label="land" />
+      <node id="disproportionate property" label="disproportionate property" />
+      <node id="maximum punishment against" label="maximum punishment against" />
+      <node id="the antigraft body" label="the antigraft body" />
+      <node id="his wife" label="his wife" />
+      <node id="son" label="son" />
+      <node id="rautahat police" label="rautahat police" />
+      <node id="the person" label="the person" />
+      <node id="murder" label="murder" />
+      <node id="a case against" label="a case against" />
+      <node id="police" label="police" />
+      <node id="indecent behaviour" label="indecent behaviour" />
+      <node id="the dismay of locals" label="the dismay of locals" />
+      <node id="justice" label="justice" />
+      <node id="locals" label="locals" />
+      <node id="the night of" label="the night of" />
+      <node id="shekh taiyab of" label="shekh taiyab of" />
+      <node id="a local of" label="a local of" />
+      <node id="an behaviour case" label="an behaviour case" />
+      <node id="the duo , saraj ," label="the duo , saraj ," />
+      <node id="nurullah" label="nurullah" />
+      <node id="the mastermind behind the murder of in" label="the mastermind behind the murder of in" />
+      <node id="himself" label="himself" />
+      <node id="shekh taiyab" label="shekh taiyab" />
+      <node id="police help" label="police help" />
+      <node id="the murder of" label="the murder of" />
+      <node id="public kushwaha" label="public kushwaha" />
+      <node id="the murder case" label="the murder case" />
+      <node id="they" label="they" />
+      <node id="the cibs report" label="the cibs report" />
+      <node id="them" label="them" />
+      <node id="three un special rapporteurs" label="three un special rapporteurs" />
+      <node id="problems in the latest amendment bill" label="problems in the latest amendment bill" />
+      <node id="nepals obligation" label="nepals obligation" />
+      <node id="rights violations" label="rights violations" />
+      <node id="a twopronged categorisation of violations of human rights" label="a twopronged categorisation of violations of human rights" />
+      <node id="the bill" label="the bill" />
+      <node id="the justice mechanisms ," label="the justice mechanisms ," />
+      <node id="violations of" label="violations of" />
+      <node id="the crimes murder sexual violence , torture" label="the crimes murder sexual violence , torture" />
+      <node id="section 2 5 of the bill" label="section 2 5 of the bill" />
+      <node id="murder with cruelty conduct , rape" label="murder with cruelty conduct , rape" />
+      <node id="this list" label="this list" />
+      <node id="all serious rights violations" label="all serious rights violations" />
+      <node id="rights violations in the amendment bill" label="rights violations in the amendment bill" />
+      <node id="which" label="which" />
+      <node id="the commission" label="the commission" />
+      <node id="a recommendation for amnesty" label="a recommendation for amnesty" />
+      <node id="consent" label="consent" />
+      <node id="victims" label="victims" />
+      <node id="amnesty" label="amnesty" />
+      <node id="the conditions for" label="the conditions for" />
+      <node id="perpetrators" label="perpetrators" />
+      <node id="legal provisions" label="legal provisions" />
+      <node id="there" label="there" />
+      <node id="a recourse" label="a recourse" />
+      <node id="those" label="those" />
+      <node id="law" label="law" />
+      <node id="a context" label="a context" />
+      <node id="force" label="force" />
+      <node id="the penal code" label="the penal code" />
+      <node id="2018" label="2018" />
+      <node id="retroactive applicability of its provisions" label="retroactive applicability of its provisions" />
+      <node id="time limitations for" label="time limitations for" />
+      <node id="crimes of rape , torture" label="crimes of rape , torture" />
+      <node id="two years for an adult" label="two years for an adult" />
+      <node id="time limitation" label="time limitation" />
+      <node id="60,000 complaints" label="60,000 complaints" />
+      <node id="the transitional mechanisms" label="the transitional mechanisms" />
+      <node id="to mechanism" label="to mechanism" />
+      <node id="the twoyear time" label="the twoyear time" />
+      <node id="the high volume of work" label="the high volume of work" />
+      <node id="the special rapporteurs" label="the special rapporteurs" />
+      <node id="further concern" label="further concern" />
+      <node id="crimes against under the jurisdiction of" label="crimes against under the jurisdiction of" />
+      <node id="a source of income generation" label="a source of income generation" />
+      <node id="forest sector" label="forest sector" />
+      <node id="oli" label="oli" />
+      <node id="the need of after its protection" label="the need of after its protection" />
+      <node id="the local levels" label="the local levels" />
+      <node id="local forest" label="local forest" />
+      <node id="his dissatisfaction" label="his dissatisfaction" />
+      <node id="that move" label="that move" />
+      <node id="lack of sustainable plans" label="lack of sustainable plans" />
+      <node id="allegations of misuse of the governments" label="allegations of misuse of the governments" />
+      <node id="local representatives" label="local representatives" />
+      <node id="staff" label="staff" />
+      <node id="the relief" label="the relief" />
+      <node id="any private government" label="any private government" />
+      <node id="whose members" label="whose members" />
+      <node id="any organisations at home" label="any organisations at home" />
+      <node id="government allowances" label="government allowances" />
+      <node id="disqualifies families" label="disqualifies families" />
+      <node id="any form" label="any form" />
+      <node id="people other" label="people other" />
+      <node id="these criteria" label="these criteria" />
+      <node id="who" label="who" />
+      <node id="the covid period" label="the covid period" />
+      <node id="surprise" label="surprise" />
+      <node id="local krishnamani badshah" label="local krishnamani badshah" />
+      <node id="long time" label="long time" />
+      <node id="quarantine" label="quarantine" />
+      <node id="covid" label="covid" />
+      <node id="whose family members" label="whose family members" />
+      <node id="the government relief" label="the government relief" />
+      <node id="the bank accounts of 83 persons" label="the bank accounts of 83 persons" />
+      <node id="relief" label="relief" />
+      <node id="most of" label="most of" />
+      <node id="the upendra samajwadi partynepal" label="the upendra samajwadi partynepal" />
+      <node id="the fivepoint deal" label="the fivepoint deal" />
+      <node id="gaur massacre struggle committee" label="gaur massacre struggle committee" />
+      <node id="the people" label="the people" />
+      <node id="jspn chair yadav" label="jspn chair yadav" />
+      <node id="a probe" label="a probe" />
+      <node id="the then cpnmaoist" label="the then cpnmaoist" />
+      <node id="27 individuals" label="27 individuals" />
+      <node id="the madhesi janadhikar forum party" label="the madhesi janadhikar forum party" />
+      <node id="clashes" label="clashes" />
+      <node id="cpnmaoist cadres" label="cpnmaoist cadres" />
+      <node id="jspn" label="jspn" />
+      <node id="a meeting venue in" label="a meeting venue in" />
+      <node id="a ploy" label="a ploy" />
+      <node id="the victims" label="the victims" />
+      <node id="seven probe committeescommissions ," label="seven probe committeescommissions ," />
+      <node id="gaur massacre" label="gaur massacre" />
+      <node id="the committee" label="the committee" />
+      <node id="justice of" label="justice of" />
+      <node id="public" label="public" />
+      <node id="some probe reports" label="some probe reports" />
+      <node id="the aftermath of the gaur massacre" label="the aftermath of the gaur massacre" />
+      <node id="seven firs" label="seven firs" />
+      <node id="flimsy grounds" label="flimsy grounds" />
+      <node id="350 people" label="350 people" />
+      <node id="nothing" label="nothing" />
+      <node id="the probe" label="the probe" />
+      <node id="local people were" label="local people were" />
+      <node id="jspn leaders" label="jspn leaders" />
+      <node id="political revenge" label="political revenge" />
+      <node id="the probe committees" label="the probe committees" />
+      <node id="the incident" label="the incident" />
+      <node id="most of the probe committees" label="most of the probe committees" />
+      <node id="the cpnmaoist" label="the cpnmaoist" />
+      <node id="responsible for the massacre" label="responsible for the massacre" />
+      <node id="the mjf" label="the mjf" />
+      <node id="permission" label="permission" />
+      <node id="venue" label="venue" />
+      <node id="a mass meeting" label="a mass meeting" />
+      <node id="cpnmaoist" label="cpnmaoist" />
+      <node id="anybody" label="anybody" />
+      <node id="the truth commission" label="the truth commission" />
+      <node id="the gaur massacre" label="the gaur massacre" />
+      <node id="the responsibility" label="the responsibility" />
+      <node id="his party" label="his party" />
+      <node id="note of the fivepoint deal" label="note of the fivepoint deal" />
+      <node id="the party" label="the party" />
+      <node id="a partner in the current coalition" label="a partner in the current coalition" />
+      <node id="the earliest" label="the earliest" />
+      <node id="the regulations" label="the regulations" />
+      <node id="citizenship certificate" label="citizenship certificate" />
+      <node id="an individual" label="an individual" />
+      <node id="months on end" label="months on end" />
+      <node id="the situation of an individual" label="the situation of an individual" />
+      <node id="media advocacy group" label="media advocacy group" />
+      <node id="the discussions programme" label="the discussions programme" />
+      <node id="the regulation" label="the regulation" />
+      <node id="months" label="months" />
+      <node id="the citizenship certificate" label="the citizenship certificate" />
+      <node id="present" label="present" />
+      <node id="the distribution of citizenship" label="the distribution of citizenship" />
+      <node id="that provision" label="that provision" />
+      <node id="the citizenship" label="the citizenship" />
+      <node id="one" label="one" />
+      <node id="selfdeclaration" label="selfdeclaration" />
+      <node id="requirement of as" label="requirement of as" />
+      <node id="provision in" label="provision in" />
+      <node id="the provision is" label="the provision is" />
+      <node id="the constitution" label="the constitution" />
+      <node id="provision" label="provision" />
+      <node id="the offspring" label="the offspring" />
+      <node id="narayan prasad bhattarai" label="narayan prasad bhattarai" />
+      <node id="biometric system" label="biometric system" />
+      <node id="citizenship" label="citizenship" />
+      <node id="an obligation on the state rights" label="an obligation on the state rights" />
+      <node id="course of" label="course of" />
+      <node id="the organisations" label="the organisations" />
+      <node id="custody of street children" label="custody of street children" />
+      <node id="the local level" label="the local level" />
+      <node id="the vital statistics like birth , death" label="the vital statistics like birth , death" />
+      <node id="the applicants" label="the applicants" />
+      <node id="some questions" label="some questions" />
+      <node id="a nepali mother" label="a nepali mother" />
+      <node id="children" label="children" />
+      <node id="problem" label="problem" />
+      <node id="many single mothers" label="many single mothers" />
+      <node id="an end" label="an end" />
+      <node id="the dillydally seen in" label="the dillydally seen in" />
+      <node id="custody of" label="custody of" />
+      <node id="an organisation" label="an organisation" />
+      <node id="a citizenship certificate in 2069 bs" label="a citizenship certificate in 2069 bs" />
+      <node id="the supreme court" label="the supreme court" />
+      <node id="the same" label="the same" />
+      <node id="the participants" label="the participants" />
+      <node id="various difficulties of" label="various difficulties of" />
+      <node id="the need of" label="the need of" />
+      <node id="provisions for the distribution of to the members of the lgbtiq community" label="provisions for the distribution of to the members of the lgbtiq community" />
+      <node id="even their literature , culture" label="even their literature , culture" />
+      <node id="equal priority" label="equal priority" />
+      <node id="pm dahal" label="pm dahal" />
+      <node id="the belief" label="the belief" />
+      <node id="this day" label="this day" />
+      <node id="all" label="all" />
+      <node id="national sovereignty" label="national sovereignty" />
+      <node id="unity" label="unity" />
+      <node id="the basis of socialism" label="the basis of socialism" />
+      <node id="the indigenous day" label="the indigenous day" />
+      <node id="the movement of" label="the movement of" />
+      <node id="more rights systematic" label="more rights systematic" />
+      <node id="the rights" label="the rights" />
+      <node id="the initiative of indigenous communities" label="the initiative of indigenous communities" />
+      <node id="laws" label="laws" />
+      <node id="powerful" label="powerful" />
+      <node id="indigenous nationalities commission" label="indigenous nationalities commission" />
+      <node id="means" label="means" />
+      <node id="resources" label="resources" />
+      <node id="indigenous nationalities" label="indigenous nationalities" />
+      <node id="around 10" label="around 10" />
+      <node id="their own language" label="their own language" />
+      <node id="culture" label="culture" />
+      <node id="the un" label="the un" />
+      <node id="19942004" label="19942004" />
+      <node id="the international day of" label="the international day of" />
+      <node id="august 9" label="august 9" />
+      <node id="1994" label="1994" />
+      <node id="point in" label="point in" />
+      <node id="the viral conjunctivitis" label="the viral conjunctivitis" />
+      <node id="different parts of the country" label="different parts of the country" />
+      <node id="various districts in the country" label="various districts in the country" />
+      <node id="the cases of viral conjunctivitis" label="the cases of viral conjunctivitis" />
+      <node id="a physical distance" label="a physical distance" />
+      <node id="eyes" label="eyes" />
+      <node id="everyone" label="everyone" />
+      <node id="hands" label="hands" />
+      <node id="soap" label="soap" />
+      <node id="water" label="water" />
+      <node id="conjunctivitis discomforts" label="conjunctivitis discomforts" />
+      <node id="exposure" label="exposure" />
+      <node id="pasang dawa sherpa , mountaineer ," label="pasang dawa sherpa , mountaineer ," />
+      <node id="a remarkable summit of" label="a remarkable summit of" />
+      <node id="the 37yearold sherpa" label="the 37yearold sherpa" />
+      <node id="this remarkable feat" label="this remarkable feat" />
+      <node id="stranger to" label="stranger to" />
+      <node id="challenging peaks" label="challenging peaks" />
+      <node id="part of the rare autumn team" label="part of the rare autumn team" />
+      <node id="its immense difficulty" label="its immense difficulty" />
+      <node id="scaling himalayas during" label="scaling himalayas during" />
+      <node id="risks" label="risks" />
+      <node id="pasang" label="pasang" />
+      <node id="everest" label="everest" />
+      <node id="his team" label="his team" />
+      <node id="achievements" label="achievements" />
+      <node id="sherpas contributions" label="sherpas contributions" />
+      <node id="his humanitarian responsibilities" label="his humanitarian responsibilities" />
+      <node id="a rescuer" label="a rescuer" />
+      <node id="exceptional valor" label="exceptional valor" />
+      <node id="one of , climber ," label="one of , climber ," />
+      <node id="a lifethreatening situation" label="a lifethreatening situation" />
+      <node id="pasang dawa sherpa" label="pasang dawa sherpa" />
+      <node id="his own mask" label="his own mask" />
+      <node id="another lifethreatening situation" label="another lifethreatening situation" />
+      <node id="mt everest" label="mt everest" />
+      <node id="the team" label="the team" />
+      <node id="their oxygen masks" label="their oxygen masks" />
+      <node id="a mission" label="a mission" />
+      <node id="the body of an indian female climber" label="the body of an indian female climber" />
+      <node id="his countrys diplomatic goodwill" label="his countrys diplomatic goodwill" />
+      <node id="mt" label="mt" />
+      <node id="his commitment to" label="his commitment to" />
+      <node id="positive messages" label="positive messages" />
+      <node id="the landslide" label="the landslide" />
+      <node id="bagmati rural municipality5" label="bagmati rural municipality5" />
+      <node id="bodies of two persons" label="bodies of two persons" />
+      <node id="rss" label="rss" />
+      <node id="deputy superintendent of" label="deputy superintendent of" />
+      <node id="tek bahadur karki" label="tek bahadur karki" />
+      <node id="the flood" label="the flood" />
+      <node id="landslide" label="landslide" />
+      <node id="incessant rain" label="incessant rain" />
+      <node id="the bodies of two persons among others" label="the bodies of two persons among others" />
+      <node id="the death toll" label="the death toll" />
+      <node id="three" label="three" />
+      <node id="alive" label="alive" />
+      <node id="pasang ghising , 17 , of hariharpur rural municipality1 ," label="pasang ghising , 17 , of hariharpur rural municipality1 ," />
+      <node id="tuesday evening" label="tuesday evening" />
+      <node id="pasang ghising , 17 , of" label="pasang ghising , 17 , of" />
+      <node id="kokati in" label="kokati in" />
+      <node id="the bagmati river bank" label="the bagmati river bank" />
+      <node id="hetauda hospital" label="hetauda hospital" />
+      <node id="injuries" label="injuries" />
+      <node id="flood" label="flood" />
+      <node id="the incessant raintriggered flooding" label="the incessant raintriggered flooding" />
+      <node id="the lives of two people in" label="the lives of two people in" />
+      <node id="the floodfed rivulet" label="the floodfed rivulet" />
+      <node id="72 people" label="72 people" />
+      <node id="the swollen banke rivulet of" label="the swollen banke rivulet of" />
+      <node id="the banke rivulet" label="the banke rivulet" />
+      <node id="his body" label="his body" />
+      <node id="tuesday" label="tuesday" />
+      <node id="rain bhat , 65 , of gadhimai municipality2" label="rain bhat , 65 , of gadhimai municipality2" />
+      <node id="his last" label="his last" />
+      <node id="samanpur" label="samanpur" />
+      <node id="the river" label="the river" />
+      <node id="him" label="him" />
+      <node id="the hospital" label="the hospital" />
+      <node id="doctors" label="doctors" />
+      <node id="dead" label="dead" />
+      <node id="the bagmati river flooding" label="the bagmati river flooding" />
+      <node id="the road section in towards" label="the road section in towards" />
+      <node id="security personnel" label="security personnel" />
+      <node id="the river flood" label="the river flood" />
+      <node id="70" label="70" />
+      <node id="indradev yadav" label="indradev yadav" />
+      <node id="the flood survivors" label="the flood survivors" />
+      <node id="the government" label="the government" />
+      <node id="a fivepoint agreement" label="a fivepoint agreement" />
+      <node id="narayan prasad bhattarai , ministry" label="narayan prasad bhattarai , ministry" />
+      <node id="the agreement" label="the agreement" />
+      <node id="bhattarai himself" label="bhattarai himself" />
+      <node id="firs" label="firs" />
+      <node id="the gaur incident" label="the gaur incident" />
+      <node id="book" label="book" />
+      <node id="the guilty" label="the guilty" />
+      <node id="accordance with the law" label="accordance with the law" />
+      <node id="the details of those martyrs" label="the details of those martyrs" />
+      <node id="the newlyborn twin sons of" label="the newlyborn twin sons of" />
+      <node id="six children ," label="six children ," />
+      <node id="she" label="she" />
+      <node id="her twins" label="her twins" />
+      <node id="this daily" label="this daily" />
+      <node id="a news report" label="a news report" />
+      <node id="the plight of the children" label="the plight of the children" />
+      <node id="santi sewa griha , organisation" label="santi sewa griha , organisation" />
+      <node id="the kids" label="the kids" />
+      <node id="a view to" label="a view to" />
+      <node id="their education" label="their education" />
+      <node id="shelter" label="shelter" />
+      <node id="nexus between foreign employment" label="nexus between foreign employment" />
+      <node id="the purpose of" label="the purpose of" />
+      <node id="sexual exploitation , exploitation" label="sexual exploitation , exploitation" />
+      <node id="the destination country of ," label="the destination country of ," />
+      <node id="nepal police" label="nepal police" />
+      <node id="a total of 136 trafficking cases" label="a total of 136 trafficking cases" />
+      <node id="the rights body" label="the rights body" />
+      <node id="a report on" label="a report on" />
+      <node id="the trafficking cases" label="the trafficking cases" />
+      <node id="the fiscal 202021" label="the fiscal 202021" />
+      <node id="cases" label="cases" />
+      <node id="the low number of cases" label="the low number of cases" />
+      <node id="the covid19 pandemic" label="the covid19 pandemic" />
+      <node id="478 victims" label="478 victims" />
+      <node id="trafficking victims" label="trafficking victims" />
+      <node id="46 percent" label="46 percent" />
+      <node id="police data" label="police data" />
+      <node id="the nature of in the context of foreign employment" label="the nature of in the context of foreign employment" />
+      <node id="india" label="india" />
+      <node id="human smugglers" label="human smugglers" />
+      <node id="different routes" label="different routes" />
+      <node id="migrants" label="migrants" />
+      <node id="destination countries for" label="destination countries for" />
+      <node id="13 countries" label="13 countries" />
+      <node id="destination countries" label="destination countries" />
+      <node id="europe , america ," label="europe , america ," />
+      <node id="countries" label="countries" />
+      <node id="main routes" label="main routes" />
+      <node id="the destination countries" label="the destination countries" />
+      <node id="smugglers" label="smugglers" />
+      <node id="different indirect routes" label="different indirect routes" />
+      <node id="the smuggler" label="the smuggler" />
+      <node id="12 countries" label="12 countries" />
+      <node id="a migrant to" label="a migrant to" />
+      <node id="captive" label="captive" />
+      <node id="the route" label="the route" />
+      <node id="hooligans" label="hooligans" />
+      <node id="us" label="us" />
+      <node id="the migrants" label="the migrants" />
+      <node id="police in" label="police in" />
+      <node id="more than rs" label="more than rs" />
+      <node id="5" label="5" />
+      <node id="protest" label="protest" />
+      <node id="private school organisations" label="private school organisations" />
+      <node id="the bill is" label="the bill is" />
+      <node id="the house of" label="the house of" />
+      <node id="the process of" label="the process of" />
+      <node id="a jointpress release warning" label="a jointpress release warning" />
+      <node id="three organisations nepal today" label="three organisations nepal today" />
+      <node id="all schools" label="all schools" />
+      <node id="warning" label="warning" />
+      <node id="the cabinet" label="the cabinet" />
+      <node id="private schools" label="private schools" />
+      <node id="nonprofit educational guthi trust" label="nonprofit educational guthi trust" />
+      <node id="five years" label="five years" />
+      <node id="the umbrella organisations of private schools" label="the umbrella organisations of private schools" />
+      <node id="the umbrella organisations of" label="the umbrella organisations of" />
+      <node id="schools across the country" label="schools across the country" />
+      <node id="the release" label="the release" />
+      <node id="the provision" label="the provision" />
+      <node id="the bills" label="the bills" />
+      <node id="the purpose" label="the purpose" />
+      <node id="contribution" label="contribution" />
+      <node id="the provision of the bill" label="the provision of the bill" />
+      <node id="private school fees" label="private school fees" />
+      <node id="teachers salaries" label="teachers salaries" />
+      <node id="human settlements at" label="human settlements at" />
+      <node id="the nearby school" label="the nearby school" />
+      <node id="two millimetres in" label="two millimetres in" />
+      <node id="the rainfall" label="the rainfall" />
+      <node id="the airport" label="the airport" />
+      <node id="two milimetre rainfall" label="two milimetre rainfall" />
+      <node id="tikapur" label="tikapur" />
+      <node id="107 millimetres rainfall" label="107 millimetres rainfall" />
+      <node id="the hydrology department" label="the hydrology department" />
+      <node id="safety measures" label="safety measures" />
+      <node id="landslides" label="landslides" />
+      <node id="transportation service" label="transportation service" />
+      <node id="many places along the road section" label="many places along the road section" />
+      <node id="kailali , kanchanpur" label="kailali , kanchanpur" />
+      <node id="vehicles" label="vehicles" />
+      <node id="the middle of the road" label="the middle of the road" />
+      <node id="the road" label="the road" />
+      <node id="thousands of passengers" label="thousands of passengers" />
+      <node id="some time" label="some time" />
+      <node id="kanchanpur team" label="kanchanpur team" />
+      <node id="two women" label="two women" />
+      <node id="the police team" label="the police team" />
+      <node id="nirmala bhandari , 40 ," label="nirmala bhandari , 40 ," />
+      <node id="their relatives" label="their relatives" />
+      <node id="the women" label="the women" />
+      <node id="vehicular movement" label="vehicular movement" />
+      <node id="this section of from 1100 am" label="this section of from 1100 am" />
+      <node id="oneway traffic" label="oneway traffic" />
+      <node id="full operation" label="full operation" />
+      <node id="this afternoon" label="this afternoon" />
+      <node id="their destinations" label="their destinations" />
+      <node id="prithvi highway ," label="prithvi highway ," />
+      <node id="this morning" label="this morning" />
+      <node id="a cavein near" label="a cavein near" />
+      <node id="the rains" label="the rains" />
+      <node id="situation of movement of largesize vehicles" label="situation of movement of largesize vehicles" />
+      <node id="main opposition party ," label="main opposition party ," />
+      <node id="house hor meeting" label="house hor meeting" />
+      <node id="cpnuml" label="cpnuml" />
+      <node id="the formation of a highlevel probe committee for the investigation of gold smuggling case" label="the formation of a highlevel probe committee for the investigation of gold smuggling case" />
+      <node id="the parliament" label="the parliament" />
+      <node id="the loss of four lives" label="the loss of four lives" />
+      <node id="a tragic bus accident in" label="a tragic bus accident in" />
+      <node id="control" label="control" />
+      <node id="prakash bantha 21" label="prakash bantha 21" />
+      <node id="the deceased" label="the deceased" />
+      <node id="madi rural municipality2 , dangi ," label="madi rural municipality2 , dangi ," />
+      <node id="dang" label="dang" />
+      <node id="the injured" label="the injured" />
+      <node id="medical treatment" label="medical treatment" />
+      <node id="a total of 19 passengers" label="a total of 19 passengers" />
+      <node id="the bus" label="the bus" />
+      <node id="the time of the accident" label="the time of the accident" />
+      <node id="the damaulidumre section of" label="the damaulidumre section of" />
+      <node id="the disruption of the section of the highway" label="the disruption of the section of the highway" />
+      <node id="the highway" label="the highway" />
+      <node id="only twowheelers" label="only twowheelers" />
+      <node id="ambulances" label="ambulances" />
+      <node id="the tanahu police" label="the tanahu police" />
+      <node id="the use of an alternative route for the movement of heavy vehicles" label="the use of an alternative route for the movement of heavy vehicles" />
+      <node id="party vicepresident abdul khan ," label="party vicepresident abdul khan ," />
+      <node id="a memorandum to" label="a memorandum to" />
+      <node id="minister chandan singh" label="minister chandan singh" />
+      <node id="thorough investigation of the water crisis" label="thorough investigation of the water crisis" />
+      <node id="such a step" label="such a step" />
+      <node id="tarai" label="tarai" />
+      <node id="the water mine of the country" label="the water mine of the country" />
+      <node id="just a way of" label="just a way of" />
+      <node id="some funds" label="some funds" />
+      <node id="nepal" label="nepal" />
+      <node id="abundant water" label="abundant water" />
+      <node id="specific places" label="specific places" />
+      <node id="water shortage" label="water shortage" />
+      <node id="relief funds for farmers" label="relief funds for farmers" />
+      <node id="barren" label="barren" />
+      <node id="sizeable cultivable land" label="sizeable cultivable land" />
+      <node id="minimum rainfall" label="minimum rainfall" />
+      <node id="irrigation" label="irrigation" />
+      <node id="electricity" label="electricity" />
+      <node id="the farmers" label="the farmers" />
+      <node id="immediate relief" label="immediate relief" />
+      <node id="exemption" label="exemption" />
+      <node id="poor coordination among the central governments" label="poor coordination among the central governments" />
+      <node id="this" label="this" />
+      <node id="one of the main agenda of" label="one of the main agenda of" />
+      <node id="the attention of the government" label="the attention of the government" />
+      <node id="4,400 households in" label="4,400 households in" />
+      <node id="severe water crisis" label="severe water crisis" />
+      <node id="a situation of in the local levels" label="a situation of in the local levels" />
+      <node id="the basic needs of the people" label="the basic needs of the people" />
+      <node id="immediate action" label="immediate action" />
+      <node id="people" label="people" />
+      <node id="all parts" label="all parts" />
+      <node id="similar issues" label="similar issues" />
+      <node id="awareness about the technology" label="awareness about the technology" />
+      <node id="few of the local levels" label="few of the local levels" />
+      <node id="directives" label="directives" />
+      <node id="their tube wells" label="their tube wells" />
+      <node id="a blockage in the pipes failure" label="a blockage in the pipes failure" />
+      <node id="water crisis" label="water crisis" />
+      <node id="few places" label="few places" />
+      <node id="rajbiraj municipality" label="rajbiraj municipality" />
+      <node id="infrastructure" label="infrastructure" />
+      <node id="the postal highway in" label="the postal highway in" />
+      <node id="the municipality" label="the municipality" />
+      <node id="physical infrastructure" label="physical infrastructure" />
+      <node id="notification for the same time" label="notification for the same time" />
+      <node id="action" label="action" />
+      <node id="the negligence of the residents" label="the negligence of the residents" />
+      <node id="attention" label="attention" />
+      <node id="most of the people" label="most of the people" />
+      <node id="the municipality notice" label="the municipality notice" />
+      <node id="officer bhupendra thapa , karki along ," label="officer bhupendra thapa , karki along ," />
+      <node id="the site" label="the site" />
+      <node id="the security team" label="the security team" />
+      <node id="rajbiraj prison areas" label="rajbiraj prison areas" />
+      <node id="party chairperson balaram poudel" label="party chairperson balaram poudel" />
+      <node id="bhutanese refugees" label="bhutanese refugees" />
+      <node id="a refugee in" label="a refugee in" />
+      <node id="poudel , after ," label="poudel , after ," />
+      <node id="a letter" label="a letter" />
+      <node id="to king" label="to king" />
+      <node id="an appeal" label="an appeal" />
+      <node id="birtamod" label="birtamod" />
+      <node id="a press meet" label="a press meet" />
+      <node id="the letter" label="the letter" />
+      <node id="the policy of national reconciliation" label="the policy of national reconciliation" />
+      <node id="the political problems within the country" label="the political problems within the country" />
+      <node id="the crisis" label="the crisis" />
+      <node id="nationality" label="nationality" />
+      <node id="democracy" label="democracy" />
+      <node id="a harsh life in prison" label="a harsh life in prison" />
+      <node id="bhutan" label="bhutan" />
+      <node id="hree ago" label="hree ago" />
+      <node id="150,000 bhutanese" label="150,000 bhutanese" />
+      <node id="the bhutanese monarch" label="the bhutanese monarch" />
+      <node id="southern part of" label="southern part of" />
+      <node id="the bhutanese refugees" label="the bhutanese refugees" />
+      <node id="third country" label="third country" />
+      <node id="20 per cent of the bhutanese refugees" label="20 per cent of the bhutanese refugees" />
+      <node id="difficulty in the refugee camps of jhapa districts" label="difficulty in the refugee camps of jhapa districts" />
+      <node id="7,000 bhutanese refugees" label="7,000 bhutanese refugees" />
+      <node id="his monarch" label="his monarch" />
+      <node id="an environment" label="an environment" />
+      <node id="the government of" label="the government of" />
+      <node id="our basic needs of food , clothing" label="our basic needs of food , clothing" />
+      <node id="poudel" label="poudel" />
+      <node id="the return of bhutanese refugees from" label="the return of bhutanese refugees from" />
+      <node id="an accident in" label="an accident in" />
+      <node id="six nepalis ," label="six nepalis ," />
+      <node id="a tree" label="a tree" />
+      <node id="the suv" label="the suv" />
+      <node id="the suv driver" label="the suv driver" />
+      <node id="cattle" label="cattle" />
+      <node id="baibhav gupta , 35 , of" label="baibhav gupta , 35 , of" />
+      <node id="sunita gupta , 22 , of , 20 ," label="sunita gupta , 22 , of , 20 ," />
+      <node id="the accident" label="the accident" />
+      <node id="driver ajay mishra" label="driver ajay mishra" />
+      <node id="bahraich medical college" label="bahraich medical college" />
+      <node id="further treatment" label="further treatment" />
+      <node id="the department of today" label="the department of today" />
+      <node id="all the 18 arrestees" label="all the 18 arrestees" />
+      <node id="to police" label="to police" />
+      <node id="their files" label="their files" />
+      <node id="the central investigation bureau" label="the central investigation bureau" />
+      <node id="the kg smuggling racket under criminal offence" label="the kg smuggling racket under criminal offence" />
+      <node id="all the arrestees , evidences" label="all the arrestees , evidences" />
+      <node id="necessary" label="necessary" />
+      <node id="the case" label="the case" />
+      <node id="the police" label="the police" />
+      <node id="evidences show is" label="evidences show is" />
+      <node id="skilled investigation officers" label="skilled investigation officers" />
+      <node id="the headquarters" label="the headquarters" />
+      <node id="the investigation responsibility to" label="the investigation responsibility to" />
+      <node id="the cib" label="the cib" />
+      <node id="a separate unit" label="a separate unit" />
+      <node id="crime" label="crime" />
+      <node id="financial irregularities" label="financial irregularities" />
+      <node id="minister pushpa kamal dahal" label="minister pushpa kamal dahal" />
+      <node id="the issue" label="the issue" />
+      <node id="the doris ability" label="the doris ability" />
+      <node id="the main opposition cpnuml" label="the main opposition cpnuml" />
+      <node id="investigation" label="investigation" />
+      <node id="racketeers" label="racketeers" />
+      <node id="customs" label="customs" />
+      <node id="the deeprooted smuggling racket in the country" label="the deeprooted smuggling racket in the country" />
+      <node id="the crime" label="the crime" />
+      <node id="18 persons" label="18 persons" />
+      <node id="the gold" label="the gold" />
+      <node id="a larger racket" label="a larger racket" />
+      <node id="anyone" label="anyone" />
+      <node id="dahal" label="dahal" />
+      <node id="his commitment" label="his commitment" />
+      <node id="stern action against" label="stern action against" />
+      <node id="guilty" label="guilty" />
+      <node id="i" label="i" />
+      <node id="you" label="you" />
+      <node id="anticorruption campaign to the conclusion" label="anticorruption campaign to the conclusion" />
+      <node id="you all" label="you all" />
+      <node id="the step" label="the step" />
+      <node id="the dirt" label="the dirt" />
+      <node id="filth" label="filth" />
+      <node id="communist movement" label="communist movement" />
+      <node id="our party" label="our party" />
+      <node id="any impulse" label="any impulse" />
+      <node id="the anticorruption campaign" label="the anticorruption campaign" />
+      <node id="provocation" label="provocation" />
+      <node id="the the corrupt forces" label="the the corrupt forces" />
+      <node id="this campaign" label="this campaign" />
+      <node id="tendencies" label="tendencies" />
+      <node id="the court sc" label="the court sc" />
+      <node id="making level from" label="making level from" />
+      <node id="the decisions" label="the decisions" />
+      <node id="a division bench of" label="a division bench of" />
+      <node id="such order" label="such order" />
+      <node id="the premiership of" label="the premiership of" />
+      <node id="decisions on the niwas land issue" label="decisions on the niwas land issue" />
+      <node id="the sc" label="the sc" />
+      <node id="a 29yearold rithu dhami from" label="a 29yearold rithu dhami from" />
+      <node id="her life" label="her life" />
+      <node id="dhangadi from" label="dhangadi from" />
+      <node id="rithu" label="rithu" />
+      <node id="twins" label="twins" />
+      <node id="a healthy son" label="a healthy son" />
+      <node id="the world" label="the world" />
+      <node id="friday morning" label="friday morning" />
+      <node id="seti provincial hospital" label="seti provincial hospital" />
+      <node id="a cesarean section" label="a cesarean section" />
+      <node id="her other son" label="her other son" />
+      <node id="the icu" label="the icu" />
+      <node id="her health deteriorate" label="her health deteriorate" />
+      <node id="this responsibility" label="this responsibility" />
+      <node id="fact" label="fact" />
+      <node id="rithus case" label="rithus case" />
+      <node id="their lives" label="their lives" />
+      <node id="13 pregnant women" label="13 pregnant women" />
+      <node id="the past four years" label="the past four years" />
+      <node id="new mothers" label="new mothers" />
+      <node id="the lack of timely medical intervention" label="the lack of timely medical intervention" />
+      <node id="a significant number of these deaths" label="a significant number of these deaths" />
+      <node id="the air rescue of expectant mothers" label="the air rescue of expectant mothers" />
+      <node id="deepak shah , coordinator ," label="deepak shah , coordinator ," />
+      <node id="the districts life expectancy" label="the districts life expectancy" />
+      <node id="poor health conditions" label="poor health conditions" />
+      <node id="the province" label="the province" />
+      <node id="1,694 dengue cases" label="1,694 dengue cases" />
+      <node id="1,694 dengue infected" label="1,694 dengue infected" />
+      <node id="1,700 people" label="1,700 people" />
+      <node id="dengue infection" label="dengue infection" />
+      <node id="2023" label="2023" />
+      <node id="335 people" label="335 people" />
+      <node id="darchula , 420" label="darchula , 420" />
+      <node id="565 dengue infected" label="565 dengue infected" />
+      <node id="the rise in dengue cases" label="the rise in dengue cases" />
+      <node id="technician , supply" label="technician , supply" />
+      <node id="local levels" label="local levels" />
+      <node id="search" label="search" />
+      <node id="the hilly areas" label="the hilly areas" />
+      <node id="outbreak of dengue cases" label="outbreak of dengue cases" />
+      <node id="mosquito destroy campaign" label="mosquito destroy campaign" />
+      <node id="the awareness programmes across the province" label="the awareness programmes across the province" />
+      <node id="dengue patients" label="dengue patients" />
+      <node id="headache , fever" label="headache , fever" />
+      <node id="a road accident" label="a road accident" />
+      <node id="six members of two families of" label="six members of two families of" />
+      <node id="place" label="place" />
+      <node id="treatment" label="treatment" />
+      <node id="sp rathore" label="sp rathore" />
+      <node id="that preparation" label="that preparation" />
+      <node id="necessary resources" label="necessary resources" />
+      <node id="the ministry of" label="the ministry of" />
+      <node id="materials" label="materials" />
+      <node id="the grassroots level" label="the grassroots level" />
+      <node id="rights" label="rights" />
+      <node id="inline" label="inline" />
+      <node id="resource materials" label="resource materials" />
+      <node id="the guideline" label="the guideline" />
+      <node id="the resource materials" label="the resource materials" />
+      <node id="levels childfriendly zone" label="levels childfriendly zone" />
+      <node id="various indicators" label="various indicators" />
+      <node id="some of" label="some of" />
+      <node id="prenatal care of , access" label="prenatal care of , access" />
+      <node id="birth registration of children" label="birth registration of children" />
+      <node id="the issues of children" label="the issues of children" />
+      <node id="the central bureau of" label="the central bureau of" />
+      <node id="further investigations" label="further investigations" />
+      <node id="a specialised body of for" label="a specialised body of for" />
+      <node id="transnational crime" label="transnational crime" />
+      <node id="the authorities" label="the authorities" />
+      <node id="further investigation" label="further investigation" />
+      <node id="an inquiry" label="an inquiry" />
+      <node id="department investigation" label="department investigation" />
+      <node id="evasion leakage" label="evasion leakage" />
+      <node id="the racketeers" label="the racketeers" />
+      <node id="the passage of through on" label="the passage of through on" />
+      <node id="the basis of suggestions" label="the basis of suggestions" />
+      <node id="the need for further investigation from the angle of crime" label="the need for further investigation from the angle of crime" />
+      <node id="various political parties" label="various political parties" />
+      <node id="suggestions" label="suggestions" />
+      <node id="security experts" label="security experts" />
+      <node id="the meeting with the prime minister" label="the meeting with the prime minister" />
+      <node id="the recovery of the smuggled gold" label="the recovery of the smuggled gold" />
+      <node id="revenue leakage" label="revenue leakage" />
+      <node id="a thorough investigation" label="a thorough investigation" />
+      <node id="the scam" label="the scam" />
+      <node id="further investigation from the angle of crime" label="further investigation from the angle of crime" />
+      <node id="a mode of for" label="a mode of for" />
+      <node id="gold" label="gold" />
+      <node id="the speculation of hundi" label="the speculation of hundi" />
+      <node id="major investigation into crime" label="major investigation into crime" />
+      <node id="a cab" label="a cab" />
+      <node id="the premises of" label="the premises of" />
+      <node id="the kg precious yellow metal" label="the kg precious yellow metal" />
+      <node id="the tia" label="the tia" />
+      <node id="hong kong" label="hong kong" />
+      <node id="the smuggled gold" label="the smuggled gold" />
+      <node id="the consignment of with gross weight of 155 kg" label="the consignment of with gross weight of 155 kg" />
+      <node id="the mint division of" label="the mint division of" />
+      <node id="illegal gold" label="illegal gold" />
+      <node id="dozen suspects ," label="dozen suspects ," />
+      <node id="buried after landslide" label="buried after landslide" />
+      <node id="sixteen nepalis" label="sixteen nepalis" />
+      <node id="the area" label="the area" />
+      <node id="the embassy" label="the embassy" />
+      <node id="tek bahadur kami from" label="tek bahadur kami from" />
+      <node id="another body" label="another body" />
+      <node id="jumla district" label="jumla district" />
+      <node id="hotel business" label="hotel business" />
+      <node id="the same family" label="the same family" />
+      <node id="the natural disaster" label="the natural disaster" />
+      <node id="government authorities" label="government authorities" />
+      <node id="their search operation" label="their search operation" />
+      <node id="ministry authorities" label="ministry authorities" />
+      <node id="the nepalis" label="the nepalis" />
+      <node id="information about the incident" label="information about the incident" />
+      <node id="91 8958757335 disaster control room" label="91 8958757335 disaster control room" />
+      <node id="the commissions decision" label="the commissions decision" />
+      <node id="fine of rs 15,000 on" label="fine of rs 15,000 on" />
+      <node id="a single bench of" label="a single bench of" />
+      <node id="the ec decision" label="the ec decision" />
+      <node id="cause notice to" label="cause notice to" />
+      <node id="an interim order" label="an interim order" />
+      <node id="the balance of convenience" label="the balance of convenience" />
+      <node id="bhattarai" label="bhattarai" />
+      <node id="his expenditure details" label="his expenditure details" />
+      <node id="behalf of" label="behalf of" />
+      <node id="tht" label="tht" />
+      <node id="expert bhimarjun acharya" label="expert bhimarjun acharya" />
+      <node id="a guidance for any other candidate" label="a guidance for any other candidate" />
+      <node id="legal remedy" label="legal remedy" />
+      <node id="any other candidate" label="any other candidate" />
+      <node id="the ec" label="the ec" />
+      <node id="candidates" label="candidates" />
+      <node id="the provisions" label="the provisions" />
+      <node id="their expenditure details" label="their expenditure details" />
+      <node id="merit" label="merit" />
+      <node id="acharya said" label="acharya said" />
+      <node id="the provincial election office" label="the provincial election office" />
+      <node id="their details" label="their details" />
+      <node id="kathmandu" label="kathmandu" />
+      <node id="imposing fine on his client" label="imposing fine on his client" />
+      <node id="lack of coordination between" label="lack of coordination between" />
+      <node id="the election commission" label="the election commission" />
+      <node id="fine" label="fine" />
+      <node id="conflict victims" label="conflict victims" />
+      <node id="amendment to" label="amendment to" />
+      <node id="amendment to the tj bill" label="amendment to the tj bill" />
+      <node id="utmost priority in" label="utmost priority in" />
+      <node id="the voices of victims" label="the voices of victims" />
+      <node id="the subcommittee" label="the subcommittee" />
+      <node id="a report on the amendment to" label="a report on the amendment to" />
+      <node id="the conflict victims" label="the conflict victims" />
+      <node id="their concerns to the subcommittee , parties" label="their concerns to the subcommittee , parties" />
+      <node id="the extent" label="the extent" />
+      <node id="the concerns of during the amendment process" label="the concerns of during the amendment process" />
+      <node id="their historical responsibility of" label="their historical responsibility of" />
+      <node id="the transitional justice process" label="the transitional justice process" />
+      <node id="the act" label="the act" />
+      <node id="the potential" label="the potential" />
+      <node id="grave rights violations" label="grave rights violations" />
+      <node id="political inclinations" label="political inclinations" />
+      <node id="a memorandum to the committee office at" label="a memorandum to the committee office at" />
+      <node id="the demands , rights" label="the demands , rights" />
+      <node id="the formation of the commission" label="the formation of the commission" />
+      <node id="protection , confidentiality" label="protection , confidentiality" />
+      <node id="their responsibility duty of" label="their responsibility duty of" />
+      <node id="various organisations" label="various organisations" />
+      <node id="the rally" label="the rally" />
+      <node id="rights organisations" label="rights organisations" />
+      <node id="the campaign" label="the campaign" />
+      <node id="the hope" label="the hope" />
+      <node id="pressure" label="pressure" />
+      <node id="compliance with the rulings of" label="compliance with the rulings of" />
+      <node id="2006" label="2006" />
+      <node id="the commitment of" label="the commitment of" />
+      <node id="a judicial review of cases of serious violation of human rights" label="a judicial review of cases of serious violation of human rights" />
+      <node id="both sides" label="both sides" />
+      <node id="human rights" label="human rights" />
+      <node id="the conflict" label="the conflict" />
+      <node id="smart" label="smart" />
+      <node id="the office of" label="the office of" />
+      <node id="the performance of this office" label="the performance of this office" />
+      <node id="the progress of the entire country" label="the progress of the entire country" />
+      <node id="the need" label="the need" />
+      <node id="bad repute of" label="bad repute of" />
+      <node id="the office" label="the office" />
+      <node id="employees" label="employees" />
+      <node id="the annual target" label="the annual target" />
+      <node id="plan" label="plan" />
+      <node id="an objective manner" label="an objective manner" />
+      <node id="programmes" label="programmes" />
+      <node id="the plans" label="the plans" />
+      <node id="the system of" label="the system of" />
+      <node id="his qualm" label="his qualm" />
+      <node id="lax implementation of the decisions" label="lax implementation of the decisions" />
+      <node id="decisions" label="decisions" />
+      <node id="the practice of" label="the practice of" />
+      <node id="that performance contract with ministers , secretary" label="that performance contract with ministers , secretary" />
+      <node id="the pm" label="the pm" />
+      <node id="performance report card" label="performance report card" />
+      <node id="that performance contract with" label="that performance contract with" />
+      <node id="arrangements" label="arrangements" />
+      <node id="the hello sarkar , initiative" label="the hello sarkar , initiative" />
+      <node id="a virtual interactive monitoring calendar" label="a virtual interactive monitoring calendar" />
+      <node id="the pride projects" label="the pride projects" />
+      <node id="monitoring" label="monitoring" />
+      <node id="two mega projects" label="two mega projects" />
+      <node id="the opmcm" label="the opmcm" />
+      <node id="the pivotal role in implementation of" label="the pivotal role in implementation of" />
+      <node id="the concerned authority" label="the concerned authority" />
+      <node id="the automatic system" label="the automatic system" />
+      <node id="system" label="system" />
+      <node id="the implementation of the decisions of" label="the implementation of the decisions of" />
+      <node id="report card of the progress report of every government agency" label="report card of the progress report of every government agency" />
+      <node id="a monthly basis" label="a monthly basis" />
+      <node id="committee members" label="committee members" />
+      <node id="their views" label="their views" />
+      <node id="the committee members" label="the committee members" />
+      <node id="their views on the political report" label="their views on the political report" />
+      <node id="the meeting" label="the meeting" />
+      <node id="74 members" label="74 members" />
+      <node id="their views on the report" label="their views on the report" />
+      <node id="the monsoon wind together with the low pressure system" label="the monsoon wind together with the low pressure system" />
+      <node id="their influence in" label="their influence in" />
+      <node id="the latter" label="the latter" />
+      <node id="partial influence , department" label="partial influence , department" />
+      <node id="possibility of rainfall in various places of the country" label="possibility of rainfall in various places of the country" />
+      <node id="possibility of heavy rainfall" label="possibility of heavy rainfall" />
+      <node id="provinces" label="provinces" />
+      <node id="chances of along at one places of bagmati provinces" label="chances of along at one places of bagmati provinces" />
+      <node id="the water samples" label="the water samples" />
+      <node id="the excessive level of coliform" label="the excessive level of coliform" />
+      <node id="all local levels in the syangja district" label="all local levels in the syangja district" />
+      <node id="the sources of all local levels" label="the sources of all local levels" />
+      <node id="the water" label="the water" />
+      <node id="coliform bacteria are" label="coliform bacteria are" />
+      <node id="the sample test of the water" label="the sample test of the water" />
+      <node id="all 11 local levels in the district" label="all 11 local levels in the district" />
+      <node id="94 samples of water" label="94 samples of water" />
+      <node id="all 11 local levels in" label="all 11 local levels in" />
+      <node id="94 samples of" label="94 samples of" />
+      <node id="each" label="each" />
+      <node id="16 samples" label="16 samples" />
+      <node id="putalibazar" label="putalibazar" />
+      <node id="bhirkot" label="bhirkot" />
+      <node id="chapakot , waling , six" label="chapakot , waling , six" />
+      <node id="eight" label="eight" />
+      <node id="biruwa" label="biruwa" />
+      <node id="each samples" label="each samples" />
+      <node id="excessive amount" label="excessive amount" />
+      <node id="that level of coliform" label="that level of coliform" />
+      <node id="public taps" label="public taps" />
+      <node id="the samples of water sources" label="the samples of water sources" />
+      <node id="the highest quantity of coliform" label="the highest quantity of coliform" />
+      <node id="66" label="66" />
+      <node id="the least 31" label="the least 31" />
+      <node id="water from" label="water from" />
+      <node id="62" label="62" />
+      <node id="consumption of water" label="consumption of water" />
+      <node id="coliform" label="coliform" />
+      <node id="consumption of" label="consumption of" />
+      <node id="diarrhoea , typhoid" label="diarrhoea , typhoid" />
+      <node id="the forecast division" label="the forecast division" />
+      <node id="a forecast" label="a forecast" />
+      <node id="mfd" label="mfd" />
+      <node id="the likelihood of heavy rainfall" label="the likelihood of heavy rainfall" />
+      <node id="the country" label="the country" />
+      <node id="a mixture of partial cloudy weather conditions" label="a mixture of partial cloudy weather conditions" />
+      <node id="the mfd alert" label="the mfd alert" />
+      <node id="light rain in specific areas of the koshi farwestern provinces" label="light rain in specific areas of the koshi farwestern provinces" />
+      <node id="several regions in , along" label="several regions in , along" />
+      <node id="moderate rainfall" label="moderate rainfall" />
+      <node id="certain places in the terai region" label="certain places in the terai region" />
+      <node id="strong winds" label="strong winds" />
+      <node id="lumbini , gandaki areas" label="lumbini , gandaki areas" />
+      <node id="partial cloudy weather pattern" label="partial cloudy weather pattern" />
+      <node id="the monsoon wind" label="the monsoon wind" />
+      <node id="the current weather scenario in" label="the current weather scenario in" />
+      <node id="the vicinity of" label="the vicinity of" />
+      <node id="the partial effect of" label="the partial effect of" />
+      <node id="the days" label="the days" />
+      <node id="this eastern section of the axis" label="this eastern section of the axis" />
+      <node id="few places within the hilly regions of" label="few places within the hilly regions of" />
+      <node id="light to moderate rainfall" label="light to moderate rainfall" />
+      <node id="select areas of other provinces" label="select areas of other provinces" />
+      <node id="similar conditions" label="similar conditions" />
+      <node id="a potential for ," label="a potential for ," />
+      <node id="sudurpashchim provinces during the night" label="sudurpashchim provinces during the night" />
+      <node id="the mfd" label="the mfd" />
+      <node id="an alert" label="an alert" />
+      <node id="845 am" label="845 am" />
+      <node id="observations" label="observations" />
+      <node id="friday" label="friday" />
+      <node id="29" label="29" />
+      <node id="the maximum temperature in" label="the maximum temperature in" />
+      <node id="the highest maximum temperature across the country" label="the highest maximum temperature across the country" />
+      <node id="dipayal" label="dipayal" />
+      <node id="nepalgunj" label="nepalgunj" />
+      <node id="36 degrees celsius ," label="36 degrees celsius ," />
+      <node id="35" label="35" />
+      <node id="around 2" label="around 2" />
+      <node id="the highest amount of in the country" label="the highest amount of in the country" />
+      <node id="biratnagar" label="biratnagar" />
+      <node id="32" label="32" />
+      <node id="the outbreak of skin disease" label="the outbreak of skin disease" />
+      <node id="14 yak sheds in the northern part of the district" label="14 yak sheds in the northern part of the district" />
+      <node id="the animals" label="the animals" />
+      <node id="one after" label="one after" />
+      <node id="480 yaks in 14 yak sheds" label="480 yaks in 14 yak sheds" />
+      <node id="inthe rural municipality" label="inthe rural municipality" />
+      <node id="lumpy skin" label="lumpy skin" />
+      <node id="farmers themselves" label="farmers themselves" />
+      <node id="initiatives" label="initiatives" />
+      <node id="the disease" label="the disease" />
+      <node id="the high hilly parts of the district" label="the high hilly parts of the district" />
+      <node id="the affected area" label="the affected area" />
+      <node id="another place from the sanphemartadi road section of" label="another place from the sanphemartadi road section of" />
+      <node id="a bailey bridge" label="a bailey bridge" />
+      <node id="operation" label="operation" />
+      <node id="a concrete bridge over the badimalika river" label="a concrete bridge over the badimalika river" />
+      <node id="a concrete bridge over" label="a concrete bridge over" />
+      <node id="the bridge" label="the bridge" />
+      <node id="problems" label="problems" />
+      <node id="rivers along the koltimartadi section" label="rivers along the koltimartadi section" />
+      <node id="the road section" label="the road section" />
+      <node id="lack of bridge" label="lack of bridge" />
+      <node id="the bailey bridge" label="the bailey bridge" />
+      <node id="planning" label="planning" />
+      <node id="the place" label="the place" />
+      <node id="the road division" label="the road division" />
+      <node id="a place" label="a place" />
+      <node id="his office" label="his office" />
+      <node id="initiative" label="initiative" />
+      <node id="decision" label="decision" />
+      <node id="many rivers in" label="many rivers in" />
+      <node id="the directive" label="the directive" />
+      <node id="any decision" label="any decision" />
+      <node id="the decision" label="the decision" />
+      <node id="the property of the federal government" label="the property of the federal government" />
+      <node id="the lawmakers of the federal levels" label="the lawmakers of the federal levels" />
+      <node id="another place" label="another place" />
+      <node id="the lawmakers of" label="the lawmakers of" />
+      <node id="discussions on training" label="discussions on training" />
+      <node id="training" label="training" />
+      <node id="matters" label="matters" />
+      <node id="spokesperson sharad singh yadav" label="spokesperson sharad singh yadav" />
+      <node id="rss , agency" label="rss , agency" />
+      <node id="tomorrow" label="tomorrow" />
+      <node id="the party coordination meeting of the peoples representatives" label="the party coordination meeting of the peoples representatives" />
+      <node id="the ward chair , mayor , chair" label="the ward chair , mayor , chair" />
+      <node id="this meeting" label="this meeting" />
+      <node id="three individuals" label="three individuals" />
+      <node id="kc" label="kc" />
+      <node id="a police report" label="a police report" />
+      <node id="police circle ," label="police circle ," />
+      <node id="a team" label="a team" />
+      <node id="the accused" label="the accused" />
+      <node id="thimi" label="thimi" />
+      <node id="shashankhar" label="shashankhar" />
+      <node id="her room" label="her room" />
+      <node id="the arrest of" label="the arrest of" />
+      <node id="a team from" label="a team from" />
+      <node id="two individuals" label="two individuals" />
+      <node id="a youth" label="a youth" />
+      <node id="an illegal firearm" label="an illegal firearm" />
+      <node id="bullets" label="bullets" />
+      <node id="the victim , chaudhary ," label="the victim , chaudhary ," />
+      <node id="his life" label="his life" />
+      <node id="dipak timilsina 35 of" label="dipak timilsina 35 of" />
+      <node id="the individuals" label="the individuals" />
+      <node id="chaudhary ," label="chaudhary ," />
+      <node id="the motorcycle" label="the motorcycle" />
+      <node id="seuti bridge" label="seuti bridge" />
+      <node id="a group" label="a group" />
+      <node id="timilsina" label="timilsina" />
+      <node id="an robbery" label="an robbery" />
+      <node id="assailants" label="assailants" />
+      <node id="their advances" label="their advances" />
+      <node id="dharans bp koirala health science institute ," label="dharans bp koirala health science institute ," />
+      <node id="chaudhary" label="chaudhary" />
+      <node id="his injuries" label="his injuries" />
+      <node id="the course of treatment" label="the course of treatment" />
+      <node id="the course of" label="the course of" />
+      <node id="the shooting incident" label="the shooting incident" />
+      <node id="a joint team of" label="a joint team of" />
+      <node id="the duo" label="the duo" />
+      <node id="itahari" label="itahari" />
+      <node id="an automatic chinese pistol , rounds" label="an automatic chinese pistol , rounds" />
+      <node id="a series of robberies" label="a series of robberies" />
+      <node id="the two suspects" label="the two suspects" />
+      <node id="june 23 , july ," label="june 23 , july ," />
+      <node id="investigations have revealed" label="investigations have revealed" />
+      <node id="a 10year prison sentence for rape" label="a 10year prison sentence for rape" />
+      <node id="timilsina , one ," label="timilsina , one ," />
+      <node id="a 6month prison sentence for an illegal drug case" label="a 6month prison sentence for an illegal drug case" />
+      <node id="rai" label="rai" />
+      <node id="a 10day judicial custody for further interrogation" label="a 10day judicial custody for further interrogation" />
+      <node id="the pair" label="the pair" />
+      <node id="leads" label="leads" />
+      <node id="rape" label="rape" />
+      <node id="manju rawal of ," label="manju rawal of ," />
+      <node id="the murder" label="the murder" />
+      <node id="manju , was a resident of in to with the assurance" label="manju , was a resident of in to with the assurance" />
+      <node id="the contract killers" label="the contract killers" />
+      <node id="a case" label="a case" />
+      <node id="the assurance" label="the assurance" />
+      <node id="killers jamansingh rawal , 27 ," label="killers jamansingh rawal , 27 ," />
+      <node id="her" label="her" />
+      <node id="krishna bk of" label="krishna bk of" />
+      <node id="goma rawal , was ," label="goma rawal , was ," />
+      <node id="manju , 33" label="manju , 33" />
+      <node id="the former" label="the former" />
+      <node id="a land plot" label="a land plot" />
+      <node id="the plan" label="the plan" />
+      <node id="goma ," label="goma ," />
+      <node id="the course of their investigation" label="the course of their investigation" />
+      <node id="the murder incident" label="the murder incident" />
+      <node id="the contract" label="the contract" />
+      <node id="krishna" label="krishna" />
+      <node id="gomas relatives" label="gomas relatives" />
+      <node id="a search" label="a search" />
+      <node id="his mothers" label="his mothers" />
+      <node id="status" label="status" />
+      <node id="cut in on from" label="cut in on from" />
+      <node id="her body" label="her body" />
+      <node id="family members of the martyrs of gaur massacre" label="family members of the martyrs of gaur massacre" />
+      <node id="sitin" label="sitin" />
+      <node id="victims families" label="victims families" />
+      <node id="a memorandum to the chief district officer" label="a memorandum to the chief district officer" />
+      <node id="interactions in all 18 local levels of the district" label="interactions in all 18 local levels of the district" />
+      <node id="a sitin" label="a sitin" />
+      <node id="aam janata party" label="aam janata party" />
+      <node id="its support" label="its support" />
+      <node id="solidarity" label="solidarity" />
+      <node id="its senior vicechairperson" label="its senior vicechairperson" />
+      <node id="their participation in the protest" label="their participation in the protest" />
+      <node id="the then madhesi janadhikar forum" label="the then madhesi janadhikar forum" />
+      <node id="twentyseven cpnmc cadres" label="twentyseven cpnmc cadres" />
+      <node id="a clash between in in" label="a clash between in in" />
+      <node id="province chief of joshi" label="province chief of joshi" />
+      <node id="new appointments" label="new appointments" />
+      <node id="kamal bahadur shah" label="kamal bahadur shah" />
+      <node id="division" label="division" />
+      <node id="the minister of , chaudhary" label="the minister of , chaudhary" />
+      <node id="shiva raj bhatta of" label="shiva raj bhatta of" />
+      <node id="the minister of" label="the minister of" />
+      <node id="minister of" label="minister of" />
+      <node id="kailsh chaudhary of" label="kailsh chaudhary of" />
+      <node id="chief joshi" label="chief joshi" />
+      <node id="oath of office" label="oath of office" />
+      <node id="minister shah" label="minister shah" />
+      <node id="the cabinet of" label="the cabinet of" />
+      <node id="the appointment" label="the appointment" />
+      <node id="minister prakash deuba minister for minister shah on" label="minister prakash deuba minister for minister shah on" />
+    </nodes>
+    <edges>
+      <edge source="the community schools of" target="day meal programme" id="0" label="operate" />
+      <edge source="day meal programme" target="students" id="1" label="attracted" />
+      <edge source="251 community schools of" target="the meal programme" id="2" label="launch" />
+      <edge source="the financial support of" target="the meal programme" id="3" label="launch" />
+      <edge source="students from" target="day meal" id="4" label="provide" />
+      <edge source="students from" target="the organisation" id="5" label="provide" />
+      <edge source="the nongovernment organisations , corps , in coordination with" target="the meal programme" id="6" label="brought" />
+      <edge source="available organic vegetables" target="the organisation" id="7" label="provide" />
+      <edge source="the day meal" target="organic vegetables" id="8" label="include" />
+      <edge source="organic vegetables" target="day meal" id="9" label="contain" />
+      <edge source="to produce" target="priority" id="10" label="give" />
+      <edge source="to students" target="the day meal" id="11" label="provide" />
+      <edge source="nutritious food" target="students" id="12" label="benefit" />
+      <edge source="we" target="food" id="13" label="providing" />
+      <edge source="we" target="the regulation" id="14" label="presenting" />
+      <edge source="we" target="them" id="15" label="airlifted" />
+      <edge source="we" target="relief funds for farmers" id="16" label="sought" />
+      <edge source="we" target="the attention of the government" id="17" label="drawn" />
+      <edge source="we" target="all the arrestees , evidences" id="18" label="sending" />
+      <edge source="we" target="the case" id="19" label="handed" />
+      <edge source="we" target="anticorruption campaign to the conclusion" id="20" label="take" />
+      <edge source="we" target="the extent" id="21" label="doubt" />
+      <edge source="we" target="the bill" id="22" label="pass" />
+      <edge source="we" target="initiatives" id="23" label="taken" />
+      <edge source="food" target="a view to" id="24" label="provide" />
+      <edge source="it" target="the students" id="25" label="attend" />
+      <edge source="it" target="school" id="26" label="attend" />
+      <edge source="it" target="a complaint of illegal assets" id="27" label="received" />
+      <edge source="it" target="the details of those martyrs" id="28" label="publish" />
+      <edge source="it" target="some time" id="29" label="take" />
+      <edge source="it" target="the road" id="30" label="open" />
+      <edge source="it" target="control" id="31" label="lost" />
+      <edge source="it" target="their tube wells" id="32" label="affects" />
+      <edge source="it" target="a blockage in the pipes failure" id="33" label="be" />
+      <edge source="it" target="communist movement" id="34" label="transform" />
+      <edge source="it" target="our party" id="35" label="transform" />
+      <edge source="it" target="an interim order" id="36" label="issuing" />
+      <edge source="it" target="the demands , rights" id="37" label="includes" />
+      <edge source="it" target="the formation of the commission" id="38" label="recommended" />
+      <edge source="it" target="the lawmakers of the federal levels" id="39" label="shift" />
+      <edge source="all the students of bajura schools" target="day meal" id="40" label="provide" />
+      <edge source="bajura" target="the meal programme" id="41" label="start" />
+      <edge source="bajura" target="rithu" id="42" label="refer" />
+      <edge source="bajura" target="13 pregnant women" id="43" label="lose" />
+      <edge source="bajura" target="new mothers" id="44" label="lose" />
+      <edge source="bajura" target="a concrete bridge over" id="45" label="bring" />
+      <edge source="2000" target="the meal programme" id="46" label="start" />
+      <edge source="the commission for" target="a chargesheet" id="47" label="filed" />
+      <edge source="the ciaa" target="a thorough investigation into his property status" id="48" label="launched" />
+      <edge source="the ciaa" target="a press release" id="49" label="issue" />
+      <edge source="the ciaa" target="maximum punishment against" id="50" label="sought" />
+      <edge source="ahamed" target="income source" id="51" label="establish" />
+      <edge source="ahamed" target="houses" id="52" label="purchased" />
+      <edge source="ahamed" target="land" id="53" label="purchased" />
+      <edge source="illegal assets of" target="ahamed" id="54" label="accumulate" />
+      <edge source="he" target="legitimate sources" id="55" label="establish" />
+      <edge source="he" target="evidences" id="56" label="establish" />
+      <edge source="he" target="disproportionate property" id="57" label="accumulated" />
+      <edge source="he" target="himself" id="58" label="established" />
+      <edge source="he" target="his dissatisfaction" id="59" label="expressed" />
+      <edge source="he" target="that move" id="60" label="controlled" />
+      <edge source="he" target="local people were" id="61" label="said" />
+      <edge source="he" target="the people" id="62" label="observe" />
+      <edge source="he" target="a physical distance" id="63" label="observe" />
+      <edge source="he" target="part of the rare autumn team" id="64" label="was" />
+      <edge source="he" target="exceptional valor" id="65" label="demonstrated" />
+      <edge source="he" target="his countrys diplomatic goodwill" id="66" label="promotes" />
+      <edge source="he" target="a letter" id="67" label="sent" />
+      <edge source="he" target="to king" id="68" label="sent" />
+      <edge source="he" target="his monarch" id="69" label="create" />
+      <edge source="he" target="an environment" id="70" label="create" />
+      <edge source="he" target="anyone" id="71" label="!spare" />
+      <edge source="he" target="arrangements" id="72" label="make" />
+      <edge source="he" target="a virtual interactive monitoring calendar" id="73" label="create" />
+      <edge source="he" target="report card of the progress report of every government agency" id="74" label="submit" />
+      <edge source="he" target="a monthly basis" id="75" label="submit" />
+      <edge source="the antigraft body" target="his wife" id="76" label="listed" />
+      <edge source="the antigraft body" target="son" id="77" label="listed" />
+      <edge source="rautahat police" target="the person" id="78" label="detained" />
+      <edge source="murder" target="he" id="79" label="try" />
+      <edge source="murder" target="we" id="80" label="sue" />
+      <edge source="a case against" target="police" id="81" label="initiate" />
+      <edge source="police" target="a local of" id="82" label="arrested" />
+      <edge source="police" target="an behaviour case" id="83" label="filed" />
+      <edge source="police" target="dozen suspects ," id="84" label="arrested" />
+      <edge source="police" target="two individuals" id="85" label="apprehended" />
+      <edge source="police" target="an illegal firearm" id="86" label="seize" />
+      <edge source="police" target="bullets" id="87" label="seize" />
+      <edge source="police" target="goma ," id="88" label="arrest" />
+      <edge source="police" target="gomas relatives" id="89" label="arrested" />
+      <edge source="police" target="a search" id="90" label="started" />
+      <edge source="indecent behaviour" target="police" id="91" label="initiate" />
+      <edge source="indecent behaviour" target="the duo , saraj ," id="92" label="investigate" />
+      <edge source="the dismay of locals" target="police" id="93" label="initiate" />
+      <edge source="justice" target="locals" id="94" label="wait" />
+      <edge source="locals" target="local representatives" id="95" label="accused" />
+      <edge source="locals" target="staff" id="96" label="accused" />
+      <edge source="locals" target="awareness about the technology" id="97" label="lack" />
+      <edge source="the night of" target="shekh taiyab of" id="98" label="murder" />
+      <edge source="nurullah" target="the mastermind behind the murder of in" id="99" label="was" />
+      <edge source="nurullah" target="shekh taiyab" id="100" label="killed" />
+      <edge source="police help" target="nurullah" id="101" label="flee" />
+      <edge source="the murder of" target="nurullah" id="102" label="plan" />
+      <edge source="public kushwaha" target="police" id="103" label="make" />
+      <edge source="the murder case" target="they" id="104" label="initiate" />
+      <edge source="they" target="the citizenship certificate" id="105" label="!have" />
+      <edge source="they" target="mt everest" id="106" label="summit" />
+      <edge source="they" target="a harsh life in prison" id="107" label="living" />
+      <edge source="they" target="this responsibility" id="108" label="manage" />
+      <edge source="they" target="amendment to the tj bill" id="109" label="sought" />
+      <edge source="they" target="the subcommittee" id="110" label="want" />
+      <edge source="they" target="their historical responsibility of" id="111" label="carry" />
+      <edge source="they" target="a memorandum to the committee office at" id="112" label="submitted" />
+      <edge source="they" target="the committee" id="113" label="pass" />
+      <edge source="they" target="the bill" id="114" label="pass" />
+      <edge source="they" target="the animals" id="115" label="treat" />
+      <edge source="they" target="interactions in all 18 local levels of the district" id="116" label="organised" />
+      <edge source="they" target="a sitin" id="117" label="started" />
+      <edge source="the cibs report" target="they" id="118" label="get" />
+      <edge source="them" target="we" id="119" label="sue" />
+      <edge source="them" target="a view to" id="120" label="provide" />
+      <edge source="three un special rapporteurs" target="problems in the latest amendment bill" id="121" label="pointed" />
+      <edge source="nepals obligation" target="rights violations" id="122" label="investigate" />
+      <edge source="rights violations" target="the crimes murder sexual violence , torture" id="123" label="comprise" />
+      <edge source="rights violations" target="legal provisions" id="124" label="prosecute" />
+      <edge source="a twopronged categorisation of violations of human rights" target="the bill" id="125" label="introduce" />
+      <edge source="the bill" target="a recourse" id="126" label="!foresee" />
+      <edge source="the bill" target="crimes against under the jurisdiction of" id="127" label="!include" />
+      <edge source="the bill" target="the cabinet" id="128" label="approve" />
+      <edge source="the justice mechanisms ," target="violations of" id="129" label="consider" />
+      <edge source="section 2 5 of the bill" target="murder with cruelty conduct , rape" id="130" label="listed" />
+      <edge source="this list" target="all serious rights violations" id="131" label="!encompass" />
+      <edge source="rights violations in the amendment bill" target="which" id="132" label="list" />
+      <edge source="which" target="the deeprooted smuggling racket in the country" id="133" label="revealed" />
+      <edge source="which" target="the air rescue of expectant mothers" id="134" label="conducts" />
+      <edge source="the commission" target="a recommendation for amnesty" id="135" label="make" />
+      <edge source="consent" target="victims" id="136" label="!give" />
+      <edge source="amnesty" target="victims" id="137" label="!give" />
+      <edge source="amnesty" target="the conditions for" id="138" label="grant" />
+      <edge source="the conditions for" target="perpetrators" id="139" label="fulfil" />
+      <edge source="legal provisions" target="there" id="140" label="!be" />
+      <edge source="there" target="allegations of misuse of the governments" id="141" label="are" />
+      <edge source="there" target="provision in" id="142" label="!is" />
+      <edge source="there" target="around 10" id="143" label="are" />
+      <edge source="there" target="nexus between foreign employment" id="144" label="is" />
+      <edge source="there" target="478 victims" id="145" label="were" />
+      <edge source="there" target="situation of movement of largesize vehicles" id="146" label="!is" />
+      <edge source="there" target="poor coordination among the central governments" id="147" label="is" />
+      <edge source="there" target="a situation of in the local levels" id="148" label="is" />
+      <edge source="there" target="the speculation of hundi" id="149" label="is" />
+      <edge source="there" target="possibility of rainfall in various places of the country" id="150" label="is" />
+      <edge source="there" target="possibility of heavy rainfall" id="151" label="is" />
+      <edge source="there" target="provinces" id="152" label="is" />
+      <edge source="there" target="chances of along at one places of bagmati provinces" id="153" label="are" />
+      <edge source="there" target="a potential for ," id="154" label="is" />
+      <edge source="there" target="sudurpashchim provinces during the night" id="155" label="is" />
+      <edge source="there" target="480 yaks in 14 yak sheds" id="156" label="are" />
+      <edge source="those" target="law" id="157" label="prosecute" />
+      <edge source="a context" target="law" id="158" label="prosecute" />
+      <edge source="force" target="the penal code" id="159" label="come" />
+      <edge source="2018" target="the penal code" id="160" label="come" />
+      <edge source="retroactive applicability of its provisions" target="the penal code" id="161" label="prevent" />
+      <edge source="time limitations for" target="a context" id="162" label="include" />
+      <edge source="crimes of rape , torture" target="time limitations for" id="163" label="report" />
+      <edge source="two years for an adult" target="time limitation" id="164" label="establish" />
+      <edge source="60,000 complaints" target="the transitional mechanisms" id="165" label="receive" />
+      <edge source="to mechanism" target="the twoyear time" id="166" label="give" />
+      <edge source="the high volume of work" target="the twoyear time" id="167" label="complete" />
+      <edge source="the special rapporteurs" target="further concern" id="168" label="expressed" />
+      <edge source="a source of income generation" target="forest sector" id="169" label="develop" />
+      <edge source="oli" target="the need of after its protection" id="170" label="stressed" />
+      <edge source="the local levels" target="local forest" id="171" label="develop" />
+      <edge source="the local levels" target="mosquito destroy campaign" id="172" label="organising" />
+      <edge source="the local levels" target="the awareness programmes across the province" id="173" label="organising" />
+      <edge source="the local levels" target="birth registration of children" id="174" label="ensure" />
+      <edge source="that move" target="lack of sustainable plans" id="175" label="citing" />
+      <edge source="local representatives" target="the relief" id="176" label="depositing" />
+      <edge source="the relief" target="disqualifies families" id="177" label="get" />
+      <edge source="the relief" target="most of" id="178" label="!qualify" />
+      <edge source="any private government" target="whose members" id="179" label="employ" />
+      <edge source="any organisations at home" target="whose members" id="180" label="employ" />
+      <edge source="government allowances" target="disqualifies families" id="181" label="receive" />
+      <edge source="any form" target="disqualifies families" id="182" label="receive" />
+      <edge source="people other" target="these criteria" id="183" label="oblige" />
+      <edge source="who" target="his wife" id="184" label="lost" />
+      <edge source="who" target="the gold" id="185" label="owned" />
+      <edge source="who" target="information about the incident" id="186" label="seek" />
+      <edge source="who" target="their advances" id="187" label="resisted" />
+      <edge source="the covid period" target="the relief" id="188" label="pocket" />
+      <edge source="surprise" target="local krishnamani badshah" id="189" label="express" />
+      <edge source="long time" target="who" id="190" label="spend" />
+      <edge source="quarantine" target="who" id="191" label="spend" />
+      <edge source="covid" target="whose family members" id="192" label="die" />
+      <edge source="the government relief" target="those" id="193" label="exclude" />
+      <edge source="the bank accounts of 83 persons" target="relief" id="194" label="deposit" />
+      <edge source="most of" target="responsible for the massacre" id="195" label="held" />
+      <edge source="the upendra samajwadi partynepal" target="the fivepoint deal" id="196" label="termed" />
+      <edge source="the fivepoint deal" target="the people" id="197" label="probe" />
+      <edge source="gaur massacre struggle committee" target="the people" id="198" label="probe" />
+      <edge source="the people" target="security personnel" id="199" label="rescue" />
+      <edge source="jspn chair yadav" target="a probe" id="200" label="conduct" />
+      <edge source="the then cpnmaoist" target="27 individuals" id="201" label="associate" />
+      <edge source="the madhesi janadhikar forum party" target="clashes" id="202" label="erupt" />
+      <edge source="cpnmaoist cadres" target="jspn" id="203" label="know" />
+      <edge source="a meeting venue in" target="jspn" id="204" label="know" />
+      <edge source="a ploy" target="the victims" id="205" label="mislead" />
+      <edge source="seven probe committeescommissions ," target="gaur massacre" id="206" label="probe" />
+      <edge source="the committee" target="seven probe committeescommissions ," id="207" label="include" />
+      <edge source="the committee" target="the concerns of during the amendment process" id="208" label="take" />
+      <edge source="justice of" target="the committee" id="209" label="lead" />
+      <edge source="public" target="some probe reports" id="210" label="make" />
+      <edge source="the aftermath of the gaur massacre" target="seven firs" id="211" label="file" />
+      <edge source="flimsy grounds" target="350 people" id="212" label="name" />
+      <edge source="nothing" target="the probe" id="213" label="lead" />
+      <edge source="jspn leaders" target="them" id="214" label="named" />
+      <edge source="jspn leaders" target="political revenge" id="215" label="exact" />
+      <edge source="the probe committees" target="the incident" id="216" label="investigated" />
+      <edge source="most of the probe committees" target="the cpnmaoist" id="217" label="held" />
+      <edge source="the mjf" target="permission" id="218" label="taken" />
+      <edge source="the mjf" target="venue" id="219" label="taken" />
+      <edge source="permission" target="a mass meeting" id="220" label="hold" />
+      <edge source="cpnmaoist" target="a mass meeting" id="221" label="organised" />
+      <edge source="anybody" target="gaur massacre" id="222" label="investigate" />
+      <edge source="anybody" target="91 8958757335 disaster control room" id="223" label="contact" />
+      <edge source="the truth commission" target="it" id="224" label="probe" />
+      <edge source="the gaur massacre" target="the responsibility" id="225" label="probe" />
+      <edge source="his party" target="note of the fivepoint deal" id="226" label="taken" />
+      <edge source="the party" target="a partner in the current coalition" id="227" label="remain" />
+      <edge source="the earliest" target="the regulations" id="228" label="bring" />
+      <edge source="citizenship certificate" target="an individual" id="229" label="apply" />
+      <edge source="months on end" target="the situation of an individual" id="230" label="wait" />
+      <edge source="media advocacy group" target="the discussions programme" id="231" label="organise" />
+      <edge source="months" target="the citizenship certificate" id="232" label="wait" />
+      <edge source="the citizenship certificate" target="course of" id="233" label="provide" />
+      <edge source="present" target="the distribution of citizenship" id="234" label="simplify" />
+      <edge source="present" target="that provision" id="235" label="make" />
+      <edge source="the citizenship" target="one" id="236" label="acquire" />
+      <edge source="one" target="the provision is" id="237" label="!have" />
+      <edge source="one" target="attention" id="238" label="paid" />
+      <edge source="selfdeclaration" target="one" id="239" label="acquire" />
+      <edge source="requirement of as" target="there" id="240" label="!be" />
+      <edge source="the constitution" target="provision" id="241" label="made" />
+      <edge source="the constitution" target="indigenous nationalities" id="242" label="guarantee" />
+      <edge source="the offspring" target="citizenship certificate" id="243" label="get" />
+      <edge source="narayan prasad bhattarai" target="biometric system" id="244" label="installing" />
+      <edge source="citizenship" target="an obligation on the state rights" id="245" label="creates" />
+      <edge source="the organisations" target="custody of street children" id="246" label="taking" />
+      <edge source="the local level" target="the vital statistics like birth , death" id="247" label="register" />
+      <edge source="the local level" target="private school fees" id="248" label="set" />
+      <edge source="the local level" target="teachers salaries" id="249" label="set" />
+      <edge source="the applicants" target="some questions" id="250" label="ask" />
+      <edge source="a nepali mother" target="citizenship" id="251" label="holding" />
+      <edge source="children" target="problem" id="252" label="having" />
+      <edge source="problem" target="citizenship" id="253" label="acquiring" />
+      <edge source="many single mothers" target="problem" id="254" label="having" />
+      <edge source="an end" target="the dillydally seen in" id="255" label="put" />
+      <edge source="custody of" target="who" id="256" label="take" />
+      <edge source="an organisation" target="who" id="257" label="take" />
+      <edge source="a citizenship certificate in 2069 bs" target="he" id="258" label="apply" />
+      <edge source="the supreme court" target="he" id="259" label="move" />
+      <edge source="the supreme court" target="the commissions decision" id="260" label="stayed" />
+      <edge source="the same" target="he" id="261" label="apply" />
+      <edge source="the same" target="planning" id="262" label="shift" />
+      <edge source="the same" target="initiative" id="263" label="take" />
+      <edge source="the participants" target="various difficulties of" id="264" label="narrated" />
+      <edge source="various difficulties of" target="citizenship" id="265" label="!having" />
+      <edge source="the need of" target="provisions for the distribution of to the members of the lgbtiq community" id="266" label="making" />
+      <edge source="even their literature , culture" target="equal priority" id="267" label="deserve" />
+      <edge source="pm dahal" target="the belief" id="268" label="expressed" />
+      <edge source="pm dahal" target="the authorities" id="269" label="carry" />
+      <edge source="pm dahal" target="further investigation" id="270" label="carry" />
+      <edge source="pm dahal" target="the concerned authority" id="271" label="urged" />
+      <edge source="the belief" target="national sovereignty" id="272" label="strengthen" />
+      <edge source="the belief" target="unity" id="273" label="strengthen" />
+      <edge source="the belief" target="the basis of socialism" id="274" label="prepare" />
+      <edge source="this day" target="all" id="275" label="inspired" />
+      <edge source="the indigenous day" target="the movement of" id="276" label="help" />
+      <edge source="the movement of" target="more rights systematic" id="277" label="gaining" />
+      <edge source="the movement of" target="the rights" id="278" label="strengthening" />
+      <edge source="the initiative of indigenous communities" target="laws" id="279" label="prepare" />
+      <edge source="powerful" target="indigenous nationalities commission" id="280" label="make" />
+      <edge source="means" target="indigenous nationalities commission" id="281" label="make" />
+      <edge source="resources" target="indigenous nationalities commission" id="282" label="make" />
+      <edge source="their own language" target="they" id="283" label="have" />
+      <edge source="culture" target="they" id="284" label="have" />
+      <edge source="the un" target="19942004" id="285" label="announced" />
+      <edge source="the international day of" target="august 9" id="286" label="observe" />
+      <edge source="1994" target="august 9" id="287" label="observe" />
+      <edge source="point in" target="there" id="288" label="!be" />
+      <edge source="the viral conjunctivitis" target="point in" id="289" label="panic" />
+      <edge source="different parts of the country" target="the viral conjunctivitis" id="290" label="spread" />
+      <edge source="various districts in the country" target="the cases of viral conjunctivitis" id="291" label="see" />
+      <edge source="eyes" target="everyone" id="292" label="refrain" />
+      <edge source="eyes" target="exposure" id="293" label="rub" />
+      <edge source="hands" target="it" id="294" label="wash" />
+      <edge source="soap" target="it" id="295" label="wash" />
+      <edge source="water" target="it" id="296" label="wash" />
+      <edge source="conjunctivitis discomforts" target="exposure" id="297" label="alleviate" />
+      <edge source="pasang dawa sherpa , mountaineer ," target="a remarkable summit of" id="298" label="achieved" />
+      <edge source="the 37yearold sherpa" target="this remarkable feat" id="299" label="accomplished" />
+      <edge source="stranger to" target="challenging peaks" id="300" label="scaling" />
+      <edge source="its immense difficulty" target="scaling himalayas during" id="301" label="know" />
+      <edge source="risks" target="scaling himalayas during" id="302" label="know" />
+      <edge source="pasang" target="everest" id="303" label="summited" />
+      <edge source="pasang" target="another lifethreatening situation" id="304" label="encountered" />
+      <edge source="pasang" target="mt" id="305" label="summited" />
+      <edge source="his team" target="everest" id="306" label="summited" />
+      <edge source="his team" target="another lifethreatening situation" id="307" label="encountered" />
+      <edge source="achievements" target="sherpas contributions" id="308" label="confine" />
+      <edge source="his humanitarian responsibilities" target="he" id="309" label="fulfill" />
+      <edge source="a rescuer" target="achievements" id="310" label="act" />
+      <edge source="one of , climber ," target="a lifethreatening situation" id="311" label="faced" />
+      <edge source="pasang dawa sherpa" target="his own mask" id="312" label="offered" />
+      <edge source="the team" target="their oxygen masks" id="313" label="shared" />
+      <edge source="a mission" target="the body of an indian female climber" id="314" label="retrieve" />
+      <edge source="his commitment to" target="positive messages" id="315" label="conveying" />
+      <edge source="the landslide" target="who" id="316" label="go" />
+      <edge source="bagmati rural municipality5" target="bodies of two persons" id="317" label="occur" />
+      <edge source="rss" target="deputy superintendent of" id="318" label="tell" />
+      <edge source="rss" target="tek bahadur karki" id="319" label="tell" />
+      <edge source="the flood" target="who" id="320" label="go" />
+      <edge source="landslide" target="who" id="321" label="take" />
+      <edge source="landslide" target="vehicular movement" id="322" label="disrupt" />
+      <edge source="landslide" target="vehicles" id="323" label="strand" />
+      <edge source="incessant rain" target="the bodies of two persons among others" id="324" label="occur" />
+      <edge source="the death toll" target="three" id="325" label="reached" />
+      <edge source="alive" target="pasang ghising , 17 , of hariharpur rural municipality1 ," id="326" label="rescue" />
+      <edge source="alive" target="kokati in" id="327" label="rescue" />
+      <edge source="tuesday evening" target="pasang ghising , 17 , of" id="328" label="rescue" />
+      <edge source="tuesday evening" target="kokati in" id="329" label="rescue" />
+      <edge source="tuesday evening" target="72 people" id="330" label="rescue" />
+      <edge source="the bagmati river bank" target="he" id="331" label="rescue" />
+      <edge source="hetauda hospital" target="injuries" id="332" label="treat" />
+      <edge source="hetauda hospital" target="he" id="333" label="treat" />
+      <edge source="flood" target="who" id="334" label="take" />
+      <edge source="the incessant raintriggered flooding" target="the lives of two people in" id="335" label="took" />
+      <edge source="the floodfed rivulet" target="who" id="336" label="take" />
+      <edge source="the swollen banke rivulet of" target="who" id="337" label="sweep" />
+      <edge source="the banke rivulet" target="his body" id="338" label="find" />
+      <edge source="tuesday" target="his body" id="339" label="find" />
+      <edge source="rain bhat , 65 , of gadhimai municipality2" target="his last" id="340" label="breathed" />
+      <edge source="samanpur" target="his last" id="341" label="breathed" />
+      <edge source="the river" target="him" id="342" label="swept" />
+      <edge source="the river" target="the bridge" id="343" label="strand" />
+      <edge source="him" target="doctors" id="344" label="pronounce" />
+      <edge source="the hospital" target="he" id="345" label="rush" />
+      <edge source="dead" target="doctors" id="346" label="pronounce" />
+      <edge source="dead" target="sunita gupta , 22 , of , 20 ," id="347" label="find" />
+      <edge source="the bagmati river flooding" target="the road section in towards" id="348" label="taken" />
+      <edge source="the river flood" target="who" id="349" label="stick" />
+      <edge source="70" target="indradev yadav" id="350" label="inform" />
+      <edge source="the flood survivors" target="indradev yadav" id="351" label="inform" />
+      <edge source="the government" target="a fivepoint agreement" id="352" label="reached" />
+      <edge source="the government" target="people" id="353" label="send" />
+      <edge source="the government" target="the main opposition cpnuml" id="354" label="ask" />
+      <edge source="the government" target="the issues of children" id="355" label="mainstream" />
+      <edge source="the government" target="the annual target" id="356" label="!achieve" />
+      <edge source="narayan prasad bhattarai , ministry" target="the agreement" id="357" label="signed" />
+      <edge source="bhattarai himself" target="the agreement" id="358" label="signed" />
+      <edge source="firs" target="the government" id="359" label="prosecute" />
+      <edge source="the gaur incident" target="the government" id="360" label="prosecute" />
+      <edge source="book" target="the guilty" id="361" label="bring" />
+      <edge source="accordance with the law" target="the guilty" id="362" label="bring" />
+      <edge source="the newlyborn twin sons of" target="six children ," id="363" label="include" />
+      <edge source="she" target="her twins" id="364" label="bore" />
+      <edge source="she" target="rajbiraj prison areas" id="365" label="added" />
+      <edge source="this daily" target="a news report" id="366" label="publish" />
+      <edge source="the plight of the children" target="a news report" id="367" label="publish" />
+      <edge source="santi sewa griha , organisation" target="the kids" id="368" label="rescue" />
+      <edge source="a view to" target="the kids" id="369" label="rescue" />
+      <edge source="their education" target="a view to" id="370" label="assist" />
+      <edge source="shelter" target="a view to" id="371" label="provide" />
+      <edge source="shelter" target="human settlements at" id="372" label="take" />
+      <edge source="shelter" target="victims" id="373" label="take" />
+      <edge source="the purpose of" target="one" id="374" label="examine" />
+      <edge source="sexual exploitation , exploitation" target="the purpose of" id="375" label="traffic" />
+      <edge source="the destination country of ," target="it" id="376" label="!specify" />
+      <edge source="nepal police" target="a total of 136 trafficking cases" id="377" label="file" />
+      <edge source="nepal police" target="the trafficking cases" id="378" label="file" />
+      <edge source="nepal police" target="three individuals" id="379" label="arrested" />
+      <edge source="the rights body" target="a report on" id="380" label="release" />
+      <edge source="the fiscal 202021" target="cases" id="381" label="register" />
+      <edge source="the low number of cases" target="one" id="382" label="attribute" />
+      <edge source="the covid19 pandemic" target="one" id="383" label="attribute" />
+      <edge source="trafficking victims" target="46 percent" id="384" label="comprise" />
+      <edge source="police data" target="the nature of in the context of foreign employment" id="385" label="suggest" />
+      <edge source="india" target="they" id="386" label="tafficke" />
+      <edge source="human smugglers" target="different routes" id="387" label="smuggle" />
+      <edge source="human smugglers" target="migrants" id="388" label="smuggle" />
+      <edge source="destination countries for" target="13 countries" id="389" label="report" />
+      <edge source="destination countries" target="europe , america ," id="390" label="!include" />
+      <edge source="destination countries" target="countries" id="391" label="include" />
+      <edge source="main routes" target="the destination countries" id="392" label="reach" />
+      <edge source="smugglers" target="different indirect routes" id="393" label="use" />
+      <edge source="smugglers" target="the gold" id="394" label="smuggle" />
+      <edge source="the smuggler" target="12 countries" id="395" label="transport" />
+      <edge source="a migrant to" target="12 countries" id="396" label="transport" />
+      <edge source="captive" target="migrants" id="397" label="make" />
+      <edge source="the route" target="migrants" id="398" label="make" />
+      <edge source="hooligans" target="they" id="399" label="loot" />
+      <edge source="us" target="the migrants" id="400" label="smuggle" />
+      <edge source="police in" target="who" id="401" label="interrogate" />
+      <edge source="more than rs" target="they" id="402" label="spend" />
+      <edge source="5" target="they" id="403" label="spend" />
+      <edge source="protest" target="private school organisations" id="404" label="announce" />
+      <edge source="the bill is" target="the government" id="405" label="!withdraw" />
+      <edge source="the house of" target="the process of" id="406" label="table" />
+      <edge source="the process of" target="the deceased" id="407" label="bringing" />
+      <edge source="a jointpress release warning" target="three organisations nepal today" id="408" label="issue" />
+      <edge source="all schools" target="they" id="409" label="close" />
+      <edge source="all schools" target="warning" id="410" label="close" />
+      <edge source="private schools" target="the bill" id="411" label="turn" />
+      <edge source="nonprofit educational guthi trust" target="the bill" id="412" label="turn" />
+      <edge source="five years" target="the bill" id="413" label="turn" />
+      <edge source="the umbrella organisations of private schools" target="the cabinet" id="414" label="withdraw" />
+      <edge source="the umbrella organisations of" target="the bill" id="415" label="withdraw" />
+      <edge source="schools across the country" target="they" id="416" label="close" />
+      <edge source="the release" target="the provision" id="417" label="termed" />
+      <edge source="the bills" target="the purpose" id="418" label="affect" />
+      <edge source="the bills" target="contribution" id="419" label="affect" />
+      <edge source="the provision of the bill" target="they" id="420" label="object" />
+      <edge source="the nearby school" target="human settlements at" id="421" label="take" />
+      <edge source="the nearby school" target="victims" id="422" label="take" />
+      <edge source="two millimetres in" target="the rainfall" id="423" label="measure" />
+      <edge source="the airport" target="two milimetre rainfall" id="424" label="received" />
+      <edge source="tikapur" target="107 millimetres rainfall" id="425" label="received" />
+      <edge source="the hydrology department" target="the people" id="426" label="take" />
+      <edge source="the hydrology department" target="safety measures" id="427" label="take" />
+      <edge source="landslides" target="transportation service" id="428" label="obstruct" />
+      <edge source="many places along the road section" target="transportation service" id="429" label="obstruct" />
+      <edge source="kailali , kanchanpur" target="vehicles" id="430" label="head" />
+      <edge source="the middle of the road" target="vehicles" id="431" label="strand" />
+      <edge source="the road" target="thousands of passengers" id="432" label="strand" />
+      <edge source="kanchanpur team" target="two women" id="433" label="rescued" />
+      <edge source="the police team" target="nirmala bhandari , 40 ," id="434" label="rescued" />
+      <edge source="their relatives" target="the women" id="435" label="hand" />
+      <edge source="this section of from 1100 am" target="oneway traffic" id="436" label="resume" />
+      <edge source="full operation" target="it" id="437" label="come" />
+      <edge source="this afternoon" target="it" id="438" label="come" />
+      <edge source="their destinations" target="vehicles" id="439" label="head" />
+      <edge source="prithvi highway ," target="oneway traffic" id="440" label="resume" />
+      <edge source="this morning" target="which" id="441" label="obstruct" />
+      <edge source="a cavein near" target="the rains" id="442" label="lead" />
+      <edge source="the rains" target="the damaulidumre section of" id="443" label="disrupt" />
+      <edge source="main opposition party ," target="house hor meeting" id="444" label="disrupted" />
+      <edge source="house hor meeting" target="the formation of a highlevel probe committee for the investigation of gold smuggling case" id="445" label="demanding" />
+      <edge source="cpnuml" target="house hor meeting" id="446" label="disrupted" />
+      <edge source="cpnuml" target="the parliament" id="447" label="obstructed" />
+      <edge source="the loss of four lives" target="a tragic bus accident in" id="448" label="result" />
+      <edge source="prakash bantha 21" target="the deceased" id="449" label="identify" />
+      <edge source="madi rural municipality2 , dangi ," target="the deceased" id="450" label="identify" />
+      <edge source="dang" target="the injured" id="451" label="transfer" />
+      <edge source="medical treatment" target="the injured" id="452" label="transfer" />
+      <edge source="a total of 19 passengers" target="the bus" id="453" label="carry" />
+      <edge source="the time of the accident" target="the bus" id="454" label="carry" />
+      <edge source="the disruption of the section of the highway" target="vehicles" id="455" label="strand" />
+      <edge source="the highway" target="only twowheelers" id="456" label="pass" />
+      <edge source="the highway" target="ambulances" id="457" label="pass" />
+      <edge source="the tanahu police" target="the use of an alternative route for the movement of heavy vehicles" id="458" label="urged" />
+      <edge source="party vicepresident abdul khan ," target="a memorandum to" id="459" label="submitted" />
+      <edge source="minister chandan singh" target="a memorandum to" id="460" label="submitted" />
+      <edge source="thorough investigation of the water crisis" target="such a step" id="461" label="!take" />
+      <edge source="tarai" target="the water mine of the country" id="462" label="is" />
+      <edge source="just a way of" target="some funds" id="463" label="garnering" />
+      <edge source="nepal" target="abundant water" id="464" label="has" />
+      <edge source="nepal" target="illegal gold" id="465" label="smuggle" />
+      <edge source="specific places" target="water shortage" id="466" label="facing" />
+      <edge source="water shortage" target="sizeable cultivable land" id="467" label="leave" />
+      <edge source="barren" target="sizeable cultivable land" id="468" label="leave" />
+      <edge source="minimum rainfall" target="sizeable cultivable land" id="469" label="leave" />
+      <edge source="irrigation" target="electricity" id="470" label="use" />
+      <edge source="the farmers" target="immediate relief" id="471" label="provide" />
+      <edge source="the farmers" target="exemption" id="472" label="provide" />
+      <edge source="this" target="one of the main agenda of" id="473" label="was" />
+      <edge source="4,400 households in" target="severe water crisis" id="474" label="facing" />
+      <edge source="the basic needs of the people" target="immediate action" id="475" label="fulfil" />
+      <edge source="people" target="problems" id="476" label="facing" />
+      <edge source="all parts" target="similar issues" id="477" label="facing" />
+      <edge source="few of the local levels" target="directives" id="478" label="implemented" />
+      <edge source="water crisis" target="few places" id="479" label="experience" />
+      <edge source="rajbiraj municipality" target="infrastructure" id="480" label="remove" />
+      <edge source="infrastructure" target="the postal highway in" id="481" label="widen" />
+      <edge source="the municipality" target="physical infrastructure" id="482" label="demolished" />
+      <edge source="the municipality" target="notification for the same time" id="483" label="issued" />
+      <edge source="action" target="we" id="484" label="take" />
+      <edge source="the negligence of the residents" target="we" id="485" label="take" />
+      <edge source="attention" target="most of the people" id="486" label="!pay" />
+      <edge source="the municipality notice" target="most of" id="487" label="!pay" />
+      <edge source="officer bhupendra thapa , karki along ," target="the site" id="488" label="reached" />
+      <edge source="the security team" target="the site" id="489" label="reached" />
+      <edge source="party chairperson balaram poudel" target="bhutanese refugees" id="490" label="return" />
+      <edge source="a refugee in" target="poudel , after ," id="491" label="live" />
+      <edge source="to king" target="he" id="492" label="send" />
+      <edge source="an appeal" target="bhutanese refugees" id="493" label="returning" />
+      <edge source="birtamod" target="a press meet" id="494" label="organise" />
+      <edge source="the letter" target="he" id="495" label="send" />
+      <edge source="the policy of national reconciliation" target="the political problems within the country" id="496" label="resolve" />
+      <edge source="the crisis" target="nationality" id="497" label="put" />
+      <edge source="the crisis" target="democracy" id="498" label="put" />
+      <edge source="bhutan" target="hree ago" id="499" label="evict" />
+      <edge source="bhutan" target="150,000 bhutanese" id="500" label="evict" />
+      <edge source="the bhutanese monarch" target="he" id="501" label="remind" />
+      <edge source="southern part of" target="the bhutanese refugees" id="502" label="deport" />
+      <edge source="third country" target="20 per cent of the bhutanese refugees" id="503" label="resettle" />
+      <edge source="difficulty in the refugee camps of jhapa districts" target="7,000 bhutanese refugees" id="504" label="live" />
+      <edge source="the government of" target="our basic needs of food , clothing" id="505" label="ensured" />
+      <edge source="poudel" target="the government of" id="506" label="facilitate" />
+      <edge source="poudel" target="the return of bhutanese refugees from" id="507" label="facilitate" />
+      <edge source="an accident in" target="six nepalis ," id="508" label="kill" />
+      <edge source="a tree" target="the suv" id="509" label="hit" />
+      <edge source="the suv driver" target="cattle" id="510" label="avoid" />
+      <edge source="baibhav gupta , 35 , of" target="the deceased" id="511" label="identify" />
+      <edge source="the accident" target="driver ajay mishra" id="512" label="injure" />
+      <edge source="the accident" target="place" id="513" label="took" />
+      <edge source="driver ajay mishra" target="treatment" id="514" label="receiving" />
+      <edge source="bahraich medical college" target="he" id="515" label="admit" />
+      <edge source="further treatment" target="he" id="516" label="admit" />
+      <edge source="the department of today" target="all the 18 arrestees" id="517" label="sent" />
+      <edge source="the department of today" target="to police" id="518" label="sent" />
+      <edge source="the department of today" target="their files" id="519" label="sent" />
+      <edge source="the central investigation bureau" target="the kg smuggling racket under criminal offence" id="520" label="investigate" />
+      <edge source="necessary" target="it" id="521" label="hand" />
+      <edge source="the case" target="it" id="522" label="hand" />
+      <edge source="the case" target="the doris ability" id="523" label="investigate" />
+      <edge source="the police" target="it" id="524" label="hand" />
+      <edge source="the police" target="an automatic chinese pistol , rounds" id="525" label="seized" />
+      <edge source="the police" target="leads" id="526" label="pursuing" />
+      <edge source="evidences show is" target="skilled investigation officers" id="527" label="requires" />
+      <edge source="the headquarters" target="the investigation responsibility to" id="528" label="hand" />
+      <edge source="the cib" target="a separate unit" id="529" label="has" />
+      <edge source="the cib" target="crime" id="530" label="has" />
+      <edge source="the cib" target="the issue" id="531" label="investigate" />
+      <edge source="the cib" target="major investigation into crime" id="532" label="carry" />
+      <edge source="a separate unit" target="financial irregularities" id="533" label="investigate" />
+      <edge source="crime" target="the scam" id="534" label="involve" />
+      <edge source="minister pushpa kamal dahal" target="the cib" id="535" label="carry" />
+      <edge source="minister pushpa kamal dahal" target="the case" id="536" label="take" />
+      <edge source="minister pushpa kamal dahal" target="further investigations" id="537" label="carry" />
+      <edge source="the main opposition cpnuml" target="the doris ability" id="538" label="question" />
+      <edge source="investigation" target="the police" id="539" label="carry" />
+      <edge source="racketeers" target="customs" id="540" label="evaded" />
+      <edge source="the crime" target="18 persons" id="541" label="arrest" />
+      <edge source="a larger racket" target="the gold" id="542" label="smuggle" />
+      <edge source="dahal" target="his commitment" id="543" label="reaffirmed" />
+      <edge source="dahal" target="the need" id="544" label="pointed" />
+      <edge source="his commitment" target="stern action against" id="545" label="take" />
+      <edge source="stern action against" target="guilty" id="546" label="found" />
+      <edge source="i" target="you" id="547" label="tell" />
+      <edge source="i" target="the office of" id="548" label="took" />
+      <edge source="you all" target="i" id="549" label="urge" />
+      <edge source="the step" target="the dirt" id="550" label="!sweep" />
+      <edge source="the step" target="filth" id="551" label="!sweep" />
+      <edge source="any impulse" target="the anticorruption campaign" id="552" label="!initiate" />
+      <edge source="provocation" target="the anticorruption campaign" id="553" label="!initiate" />
+      <edge source="the the corrupt forces" target="this campaign" id="554" label="scare" />
+      <edge source="tendencies" target="this campaign" id="555" label="scare" />
+      <edge source="the court sc" target="those" id="556" label="investigate" />
+      <edge source="making level from" target="the decisions" id="557" label="certifying" />
+      <edge source="making level from" target="it" id="558" label="take" />
+      <edge source="a division bench of" target="such order" id="559" label="made" />
+      <edge source="the premiership of" target="decisions on the niwas land issue" id="560" label="take" />
+      <edge source="the sc" target="those" id="561" label="investigate" />
+      <edge source="a 29yearold rithu dhami from" target="her life" id="562" label="lost" />
+      <edge source="dhangadi from" target="rithu" id="563" label="refer" />
+      <edge source="twins" target="she" id="564" label="carry" />
+      <edge source="a healthy son" target="rithu" id="565" label="welcome" />
+      <edge source="the world" target="rithu" id="566" label="welcome" />
+      <edge source="friday morning" target="rithu" id="567" label="welcome" />
+      <edge source="seti provincial hospital" target="rithu" id="568" label="welcome" />
+      <edge source="a cesarean section" target="her other son" id="569" label="deliver" />
+      <edge source="the icu" target="rithu" id="570" label="admit" />
+      <edge source="her health deteriorate" target="rithu" id="571" label="admit" />
+      <edge source="fact" target="rithus case" id="572" label="!isolate" />
+      <edge source="their lives" target="13 pregnant women" id="573" label="lose" />
+      <edge source="their lives" target="new mothers" id="574" label="lose" />
+      <edge source="the past four years" target="13 pregnant women" id="575" label="lose" />
+      <edge source="the past four years" target="new mothers" id="576" label="lose" />
+      <edge source="the lack of timely medical intervention" target="a significant number of these deaths" id="577" label="attribute" />
+      <edge source="deepak shah , coordinator ," target="the districts life expectancy" id="578" label="attributed" />
+      <edge source="deepak shah , coordinator ," target="poor health conditions" id="579" label="attributed" />
+      <edge source="the province" target="1,694 dengue cases" id="580" label="confirm" />
+      <edge source="the province" target="1,694 dengue infected" id="581" label="find" />
+      <edge source="1,700 people" target="dengue infection" id="582" label="find" />
+      <edge source="2023" target="335 people" id="583" label="infect" />
+      <edge source="darchula , 420" target="565 dengue infected" id="584" label="find" />
+      <edge source="the rise in dengue cases" target="technician , supply" id="585" label="intensify" />
+      <edge source="local levels" target="search" id="586" label="launching" />
+      <edge source="the hilly areas" target="outbreak of dengue cases" id="587" label="see" />
+      <edge source="dengue patients" target="headache , fever" id="588" label="experience" />
+      <edge source="a road accident" target="six members of two families of" id="589" label="kill" />
+      <edge source="place" target="the murder incident" id="590" label="take" />
+      <edge source="sp rathore" target="that preparation" id="591" label="shared" />
+      <edge source="necessary resources" target="the ministry of" id="592" label="develop" />
+      <edge source="materials" target="the ministry of" id="593" label="develop" />
+      <edge source="the grassroots level" target="rights" id="594" label="promote" />
+      <edge source="inline" target="resource materials" id="595" label="develop" />
+      <edge source="the guideline" target="resource materials" id="596" label="develop" />
+      <edge source="the resource materials" target="levels childfriendly zone" id="597" label="declare" />
+      <edge source="various indicators" target="the government" id="598" label="set" />
+      <edge source="some of" target="prenatal care of , access" id="599" label="include" />
+      <edge source="the central bureau of" target="the government" id="600" label="direct" />
+      <edge source="a specialised body of for" target="transnational crime" id="601" label="investigating" />
+      <edge source="an inquiry" target="department investigation" id="602" label="launch" />
+      <edge source="evasion leakage" target="an inquiry" id="603" label="focus" />
+      <edge source="the racketeers" target="evasion leakage" id="604" label="commit" />
+      <edge source="the passage of through on" target="evasion leakage" id="605" label="commit" />
+      <edge source="the basis of suggestions" target="the need for further investigation from the angle of crime" id="606" label="realise" />
+      <edge source="various political parties" target="suggestions" id="607" label="receive" />
+      <edge source="security experts" target="suggestions" id="608" label="receive" />
+      <edge source="the meeting with the prime minister" target="who" id="609" label="participate" />
+      <edge source="the recovery of the smuggled gold" target="revenue leakage" id="610" label="notice" />
+      <edge source="a thorough investigation" target="department investigation" id="611" label="conduct" />
+      <edge source="further investigation from the angle of crime" target="the cib" id="612" label="proceed" />
+      <edge source="a mode of for" target="gold" id="613" label="use" />
+      <edge source="a cab" target="the gold" id="614" label="seize" />
+      <edge source="the premises of" target="the gold" id="615" label="seize" />
+      <edge source="the kg precious yellow metal" target="the racketeers" id="616" label="pass" />
+      <edge source="the tia" target="the kg precious yellow metal" id="617" label="undetecte" />
+      <edge source="hong kong" target="the smuggled gold" id="618" label="bring" />
+      <edge source="the consignment of with gross weight of 155 kg" target="the smuggled gold" id="619" label="conceal" />
+      <edge source="the mint division of" target="the gold" id="620" label="send" />
+      <edge source="buried after landslide" target="sixteen nepalis" id="621" label="fear" />
+      <edge source="the area" target="landslide" id="622" label="occur" />
+      <edge source="the embassy" target="a press release" id="623" label="issued" />
+      <edge source="tek bahadur kami from" target="one" id="624" label="identify" />
+      <edge source="another body" target="one" id="625" label="identify" />
+      <edge source="jumla district" target="who" id="626" label="hail" />
+      <edge source="hotel business" target="the same family" id="627" label="engage" />
+      <edge source="the natural disaster" target="the area" id="628" label="struck" />
+      <edge source="government authorities" target="their search operation" id="629" label="intensified" />
+      <edge source="ministry authorities" target="the nepalis" id="630" label="rescue" />
+      <edge source="the commissions decision" target="fine of rs 15,000 on" id="631" label="impose" />
+      <edge source="a single bench of" target="the ec decision" id="632" label="stayed" />
+      <edge source="the ec decision" target="cause notice to" id="633" label="issuing" />
+      <edge source="the ec decision" target="who" id="634" label="aggrieve" />
+      <edge source="an interim order" target="the balance of convenience" id="635" label="keeping" />
+      <edge source="bhattarai" target="his expenditure details" id="636" label="submitted" />
+      <edge source="behalf of" target="who" id="637" label="plead" />
+      <edge source="tht" target="expert bhimarjun acharya" id="638" label="tell" />
+      <edge source="a guidance for any other candidate" target="it" id="639" label="serve" />
+      <edge source="legal remedy" target="any other candidate" id="640" label="seek" />
+      <edge source="the ec" target="him" id="641" label="fined" />
+      <edge source="the ec" target="candidates" id="642" label="!submit" />
+      <edge source="candidates" target="the provisions" id="643" label="submit" />
+      <edge source="candidates" target="their details" id="644" label="submit" />
+      <edge source="their expenditure details" target="the provisions" id="645" label="submit" />
+      <edge source="their expenditure details" target="acharya said" id="646" label="submit" />
+      <edge source="merit" target="the ec" id="647" label="lack" />
+      <edge source="the provincial election office" target="acharya said" id="648" label="submit" />
+      <edge source="their details" target="candidates" id="649" label="!submit" />
+      <edge source="kathmandu" target="candidates" id="650" label="!submit" />
+      <edge source="imposing fine on his client" target="lack of coordination between" id="651" label="showed" />
+      <edge source="the election commission" target="fine" id="652" label="imposed" />
+      <edge source="conflict victims" target="amendment to" id="653" label="sought" />
+      <edge source="conflict victims" target="various organisations" id="654" label="work" />
+      <edge source="utmost priority in" target="the voices of victims" id="655" label="incorporate" />
+      <edge source="the subcommittee" target="a report on the amendment to" id="656" label="furnish" />
+      <edge source="the subcommittee" target="it" id="657" label="put" />
+      <edge source="the conflict victims" target="their concerns to the subcommittee , parties" id="658" label="expressed" />
+      <edge source="their historical responsibility of" target="the transitional justice process" id="659" label="bringing" />
+      <edge source="the act" target="the potential" id="660" label="has" />
+      <edge source="the potential" target="grave rights violations" id="661" label="pardon" />
+      <edge source="the potential" target="political inclinations" id="662" label="have" />
+      <edge source="protection , confidentiality" target="provision" id="663" label="make" />
+      <edge source="their responsibility duty of" target="the transitional justice process" id="664" label="bringing" />
+      <edge source="various organisations" target="the rally" id="665" label="attend" />
+      <edge source="rights organisations" target="the campaign" id="666" label="support" />
+      <edge source="the hope" target="the campaign" id="667" label="support" />
+      <edge source="pressure" target="it" id="668" label="put" />
+      <edge source="compliance with the rulings of" target="the bill" id="669" label="revise" />
+      <edge source="2006" target="the commitment of" id="670" label="sign" />
+      <edge source="a judicial review of cases of serious violation of human rights" target="it" id="671" label="provide" />
+      <edge source="both sides" target="human rights" id="672" label="commit" />
+      <edge source="the conflict" target="human rights" id="673" label="commit" />
+      <edge source="smart" target="the office of" id="674" label="make" />
+      <edge source="the performance of this office" target="the progress of the entire country" id="675" label="reflects" />
+      <edge source="the need" target="bad repute of" id="676" label="wipe" />
+      <edge source="the office" target="employees" id="677" label="keeping" />
+      <edge source="the office" target="the directive" id="678" label="reach" />
+      <edge source="plan" target="we" id="679" label="formulate" />
+      <edge source="an objective manner" target="we" id="680" label="formulate" />
+      <edge source="programmes" target="we" id="681" label="formulate" />
+      <edge source="programmes" target="the system of" id="682" label="formulate" />
+      <edge source="the plans" target="the system of" id="683" label="formulate" />
+      <edge source="his qualm" target="the plans" id="684" label="express" />
+      <edge source="lax implementation of the decisions" target="the plans" id="685" label="express" />
+      <edge source="decisions" target="the practice of" id="686" label="make" />
+      <edge source="that performance contract with ministers , secretary" target="the pm" id="687" label="share" />
+      <edge source="performance report card" target="that performance contract with" id="688" label="relate" />
+      <edge source="arrangements" target="the hello sarkar , initiative" id="689" label="run" />
+      <edge source="the pride projects" target="a virtual interactive monitoring calendar" id="690" label="create" />
+      <edge source="monitoring" target="two mega projects" id="691" label="evaluating" />
+      <edge source="the opmcm" target="the pivotal role in implementation of" id="692" label="play" />
+      <edge source="the concerned authority" target="the automatic system" id="693" label="take" />
+      <edge source="the concerned authority" target="system" id="694" label="take" />
+      <edge source="system" target="the implementation of the decisions of" id="695" label="monitor" />
+      <edge source="committee members" target="their views" id="696" label="putting" />
+      <edge source="the committee members" target="their views on the political report" id="697" label="putting" />
+      <edge source="the meeting" target="place" id="698" label="taking" />
+      <edge source="the meeting" target="discussions on training" id="699" label="hold" />
+      <edge source="74 members" target="their views on the report" id="700" label="put" />
+      <edge source="the monsoon wind together with the low pressure system" target="their influence in" id="701" label="have" />
+      <edge source="the latter" target="partial influence , department" id="702" label="has" />
+      <edge source="the water samples" target="the excessive level of coliform" id="703" label="confirm" />
+      <edge source="all local levels in the syangja district" target="the water samples" id="704" label="supply" />
+      <edge source="the sources of all local levels" target="the water" id="705" label="collect" />
+      <edge source="coliform bacteria are" target="the sample test of the water" id="706" label="show" />
+      <edge source="all 11 local levels in the district" target="94 samples of water" id="707" label="collect" />
+      <edge source="all 11 local levels in" target="94 samples of" id="708" label="test" />
+      <edge source="each" target="16 samples" id="709" label="collect" />
+      <edge source="putalibazar" target="16 samples" id="710" label="collect" />
+      <edge source="putalibazar" target="the least 31" id="711" label="had" />
+      <edge source="bhirkot" target="16 samples" id="712" label="collect" />
+      <edge source="chapakot , waling , six" target="eight" id="713" label="collect" />
+      <edge source="chapakot , waling , six" target="each samples" id="714" label="collect" />
+      <edge source="biruwa" target="eight" id="715" label="collect" />
+      <edge source="biruwa" target="each samples" id="716" label="collect" />
+      <edge source="biruwa" target="water" id="717" label="collect" />
+      <edge source="excessive amount" target="that level of coliform" id="718" label="find" />
+      <edge source="public taps" target="the samples of water sources" id="719" label="collect" />
+      <edge source="the highest quantity of coliform" target="water" id="720" label="show" />
+      <edge source="66" target="water" id="721" label="show" />
+      <edge source="water from" target="62" id="722" label="showed" />
+      <edge source="consumption of water" target="coliform" id="723" label="containing" />
+      <edge source="consumption of" target="diarrhoea , typhoid" id="724" label="causes" />
+      <edge source="the forecast division" target="a forecast" id="725" label="issued" />
+      <edge source="a forecast" target="the likelihood of heavy rainfall" id="726" label="indicating" />
+      <edge source="mfd" target="a forecast" id="727" label="issued" />
+      <edge source="the country" target="a mixture of partial cloudy weather conditions" id="728" label="experiencing" />
+      <edge source="the country" target="partial cloudy weather pattern" id="729" label="maintain" />
+      <edge source="the mfd alert" target="light rain in specific areas of the koshi farwestern provinces" id="730" label="reports" />
+      <edge source="several regions in , along" target="moderate rainfall" id="731" label="expect" />
+      <edge source="certain places in the terai region" target="strong winds" id="732" label="affect" />
+      <edge source="lumbini , gandaki areas" target="strong winds" id="733" label="affect" />
+      <edge source="the monsoon wind" target="the current weather scenario in" id="734" label="influence" />
+      <edge source="the vicinity of" target="the partial effect of" id="735" label="locate" />
+      <edge source="the days" target="this eastern section of the axis" id="736" label="move" />
+      <edge source="few places within the hilly regions of" target="light to moderate rainfall" id="737" label="anticipate" />
+      <edge source="select areas of other provinces" target="similar conditions" id="738" label="expect" />
+      <edge source="the mfd" target="an alert" id="739" label="issued" />
+      <edge source="845 am" target="observations" id="740" label="take" />
+      <edge source="friday" target="observations" id="741" label="take" />
+      <edge source="29" target="the maximum temperature in" id="742" label="reach" />
+      <edge source="the highest maximum temperature across the country" target="dipayal" id="743" label="record" />
+      <edge source="nepalgunj" target="36 degrees celsius ," id="744" label="follow" />
+      <edge source="35" target="36 degrees celsius ," id="745" label="follow" />
+      <edge source="around 2" target="kathmandu" id="746" label="receive" />
+      <edge source="the highest amount of in the country" target="biratnagar" id="747" label="receive" />
+      <edge source="32" target="biratnagar" id="748" label="receive" />
+      <edge source="the outbreak of skin disease" target="14 yak sheds in the northern part of the district" id="749" label="affected" />
+      <edge source="the animals" target="one after" id="750" label="die" />
+      <edge source="inthe rural municipality" target="lumpy skin" id="751" label="see" />
+      <edge source="farmers themselves" target="initiatives" id="752" label="control" />
+      <edge source="farmers themselves" target="the disease" id="753" label="control" />
+      <edge source="initiatives" target="the bridge" id="754" label="shift" />
+      <edge source="the disease" target="the farmers" id="755" label="contain" />
+      <edge source="the high hilly parts of the district" target="the affected area" id="756" label="situate" />
+      <edge source="another place from the sanphemartadi road section of" target="a bailey bridge" id="757" label="!shift" />
+      <edge source="operation" target="a concrete bridge over the badimalika river" id="758" label="bring" />
+      <edge source="the bridge" target="decision" id="759" label="shift" />
+      <edge source="problems" target="rivers along the koltimartadi section" id="760" label="crossing" />
+      <edge source="the road section" target="transportation service" id="761" label="obstruct" />
+      <edge source="lack of bridge" target="transportation service" id="762" label="obstruct" />
+      <edge source="the bailey bridge" target="planning" id="763" label="shift" />
+      <edge source="the place" target="planning" id="764" label="shift" />
+      <edge source="the place" target="the bailey bridge" id="765" label="shift" />
+      <edge source="the road division" target="a place" id="766" label="find" />
+      <edge source="the road division" target="the decision" id="767" label="!take" />
+      <edge source="a place" target="the bridge" id="768" label="shift" />
+      <edge source="his office" target="initiative" id="769" label="take" />
+      <edge source="many rivers in" target="the bridge" id="770" label="need" />
+      <edge source="any decision" target="the road division" id="771" label="make" />
+      <edge source="the decision" target="the property of the federal government" id="772" label="shift" />
+      <edge source="another place" target="the lawmakers of" id="773" label="shift" />
+      <edge source="training" target="matters" id="774" label="strengthening" />
+      <edge source="spokesperson sharad singh yadav" target="rss , agency" id="775" label="told" />
+      <edge source="tomorrow" target="the party coordination meeting of the peoples representatives" id="776" label="call" />
+      <edge source="the ward chair , mayor , chair" target="this meeting" id="777" label="attend" />
+      <edge source="kc" target="a police report" id="778" label="file" />
+      <edge source="police circle ," target="a team" id="779" label="deploy" />
+      <edge source="the accused" target="a team" id="780" label="arrest" />
+      <edge source="the accused" target="thimi" id="781" label="arrest" />
+      <edge source="shashankhar" target="her room" id="782" label="entered" />
+      <edge source="the arrest of" target="a team from" id="783" label="ensure" />
+      <edge source="two individuals" target="a youth" id="784" label="shooting" />
+      <edge source="the victim , chaudhary ," target="his life" id="785" label="lost" />
+      <edge source="dipak timilsina 35 of" target="the individuals" id="786" label="identify" />
+      <edge source="chaudhary ," target="the motorcycle" id="787" label="riding" />
+      <edge source="seuti bridge" target="they" id="788" label="stop" />
+      <edge source="a group" target="they" id="789" label="stop" />
+      <edge source="timilsina" target="which" id="790" label="include" />
+      <edge source="an robbery" target="which" id="791" label="include" />
+      <edge source="assailants" target="chaudhary ," id="792" label="confronted" />
+      <edge source="dharans bp koirala health science institute ," target="chaudhary" id="793" label="rush" />
+      <edge source="his injuries" target="he" id="794" label="succumb" />
+      <edge source="the course of treatment" target="he" id="795" label="succumb" />
+      <edge source="the course of" target="the shooting incident" id="796" label="investigating" />
+      <edge source="a joint team of" target="the duo" id="797" label="arrested" />
+      <edge source="itahari" target="the duo" id="798" label="arrested" />
+      <edge source="a series of robberies" target="the two suspects" id="799" label="involve" />
+      <edge source="june 23 , july ," target="investigations have revealed" id="800" label="occur" />
+      <edge source="a 10year prison sentence for rape" target="timilsina , one ," id="801" label="release" />
+      <edge source="a 6month prison sentence for an illegal drug case" target="rai" id="802" label="serve" />
+      <edge source="a 10day judicial custody for further interrogation" target="the pair" id="803" label="remand" />
+      <edge source="rape" target="manju rawal of ," id="804" label="subject" />
+      <edge source="the murder" target="manju rawal of ," id="805" label="subject" />
+      <edge source="manju , was a resident of in to with the assurance" target="the contract killers" id="806" label="call" />
+      <edge source="a case" target="they" id="807" label="settle" />
+      <edge source="a case" target="the assurance" id="808" label="settle" />
+      <edge source="killers jamansingh rawal , 27 ," target="her" id="809" label="abused" />
+      <edge source="krishna bk of" target="her" id="810" label="abused" />
+      <edge source="goma rawal , was ," target="manju , 33" id="811" label="murder" />
+      <edge source="the former" target="a land plot" id="812" label="grab" />
+      <edge source="the plan" target="who" id="813" label="make" />
+      <edge source="the course of their investigation" target="goma ," id="814" label="arrest" />
+      <edge source="the contract" target="krishna" id="815" label="killers" />
+      <edge source="his mothers" target="status" id="816" label="missing" />
+      <edge source="cut in on from" target="her body" id="817" label="find" />
+      <edge source="family members of the martyrs of gaur massacre" target="sitin" id="818" label="staged" />
+      <edge source="victims families" target="a memorandum to the chief district officer" id="819" label="submitted" />
+      <edge source="aam janata party" target="its support" id="820" label="expressed" />
+      <edge source="aam janata party" target="solidarity" id="821" label="expressed" />
+      <edge source="its senior vicechairperson" target="their participation in the protest" id="822" label="showing" />
+      <edge source="the then madhesi janadhikar forum" target="twentyseven cpnmc cadres" id="823" label="murder" />
+      <edge source="a clash between in in" target="twentyseven cpnmc cadres" id="824" label="murder" />
+      <edge source="province chief of joshi" target="new appointments" id="825" label="made" />
+      <edge source="province chief of joshi" target="kamal bahadur shah" id="826" label="made" />
+      <edge source="province chief of joshi" target="division" id="827" label="made" />
+      <edge source="the minister of , chaudhary" target="shiva raj bhatta of" id="828" label="appoint" />
+      <edge source="the minister of" target="shiva raj bhatta of" id="829" label="appoint" />
+      <edge source="minister of" target="kailsh chaudhary of" id="830" label="appoint" />
+      <edge source="chief joshi" target="oath of office" id="831" label="administered" />
+      <edge source="minister shah" target="oath of office" id="832" label="administered" />
+      <edge source="the cabinet of" target="the appointment" id="833" label="make" />
+      <edge source="the cabinet of" target="division" id="834" label="make" />
+      <edge source="minister prakash deuba minister for minister shah on" target="the cabinet" id="835" label="formed" />
+    </edges>
+  </graph>
+</gexf>
