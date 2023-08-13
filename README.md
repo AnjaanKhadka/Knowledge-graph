@@ -15,7 +15,7 @@ Duplicate contents as well as empty contents were removed from the data. Unrecog
 
 ## Building Directed Graph
 
-To build a directed graph I found a really good [repository entitled enhanced-subject-verb-object-extraction](https://github.com/rock3125/enhanced-subject-verb-object-extraction) by [rock3125](https://github.com/rock3125) that can split sentences into subject-verb and object. I used this model for splitting each sentence in my dataset to subject, verb, and object.
+I have ectracted subject, object, relationship for each sentence and added an edge from subject to object with relationship as the edge. On doing this for 2000 pages of articles, Directed graph was drawn.
 
 Knowledge graph made with 5 articles.
 
@@ -25,6 +25,28 @@ Knowledge Graph made with 50 articles.
 
 ![image](https://github.com/AnjaanKhadka/Knowlege-graph/assets/43941329/aad4aa4d-763c-4d3f-a82e-7f11c9b5cd1c)
 
-I attempted to Draw the graph with each sentence collected in Networkx. Since there very large number of sentences in the entire text. (around 50k sentences) This resulted in the graph being too complicated. Later I reduced the number of considered articles.
+I drew graph from 2000 aarticles from scraped data and used it to extract required information when necessary. When a questio is asked often subject, object or relationship is missing, by comparing it to the graph, This system can get related information to the question. Due to very low effort simplification of subject object relationship system, this system could not reliably used for information extraction.
 
-I planned to convert questions into subject-object pair and find the path between the subject and object of the questions. I planned to display all the sentences in that path as answers to the question. This could be true if sentences were not so sparse. Since sentences were sparse, most of the time object was unreachable from the subject. There are various solutions to this problem. An optimal solution would be to simplify subjects and objects so that they can match easily with one another. This should dense the graph, thus making this approach somewhat workable. Another solution would be to use some deep learning language model to identify subjects and objects. This model will select a subject and object from a pool of text data it was trained on. This limits multiple variations of the same words to form different nodes, thus making this approach of question-answering possible.
+Requirements are listed in requirements.txt file. Use
+
+    pip install -r requirements.txt 
+
+to install the requirements.
+
+To Scrae and collect information from web Use
+
+    python scrape.py
+
+you can use more catagories or more pages from single catagories. Slightly edit the file to achieve just that.
+
+After collecting the data, filter the text using filter.py file. This cleans data from useless characters.
+
+    python filter.py
+
+Then you can generate graph using generate_graph.py file
+
+    python generate_graph.py
+
+After this process you can infer your model. Or you can directly infer my model. to infer model, above steps of scraping, filtering and generting graph can be skipped.
+
+    python infer.py

@@ -37,22 +37,31 @@ if __name__ == "__main__":
 
     # pairs = list(itertools.product(A, B)) + list(itertools.product(A, C)) + list(itertools.product(B, C))
     
+    results = []
     for sub, obj in itertools.product(subs,objs):    
         if sub in G.nodes() and obj in G.nodes():
             if G.has_edge(sub, obj):
-                print(G.get_edge_data(sub, obj)['sentence'])
+                r = G.get_edge_data(sub, obj)['sentence']
+                if r not in results:
+                    results.append(r)
     
     for sub, relationship in itertools.product(subs,relationships):
         if sub in G.nodes():
             for node in G.neighbors(sub):
                 if G.get_edge_data(sub, node)['relationship'] == relationship:
-                    print(G.get_edge_data(sub, node)['sentence'])
+                    r = G.get_edge_data(sub, node)['sentence']
+                    if r not in results:
+                        results.append(r)
     
     for obj, relationship in itertools.product(objs,relationships):
         if obj in G.nodes():
             for node in G.neighbors(obj):
                 if G.get_edge_data(obj, node)['relationship'] == relationship:
-                    print(G.get_edge_data(obj, node)['sentence'])
+                    r = G.get_edge_data(obj, node)['sentence']
+                    if r not in results:
+                        results.append(r)
+    
+    print(".".join(results))
    
     # elif relationship:
     #     if sub in G.nodes():
