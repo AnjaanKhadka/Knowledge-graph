@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-08-13">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relationship" type="string" />
+      <attribute id="1" title="sentence" type="string" />
+    </attributes>
+    <nodes>
+      <node id="burden" label="burden" />
+      <node id="verdict" label="verdict" />
+      <node id="Dahal" label="Dahal" />
+      <node id="Nepal" label="Nepal" />
+      <node id="formation" label="formation" />
+      <node id="communities" label="communities" />
+      <node id="committee" label="committee" />
+      <node id="meeting" label="meeting" />
+      <node id="PM" label="PM" />
+      <node id="speaker" label="speaker" />
+      <node id="justice" label="justice" />
+      <node id="cent" label="cent" />
+      <node id="NCDs" label="NCDs" />
+      <node id="bench" label="bench" />
+      <node id="government" label="government" />
+      <node id="deaths" label="deaths" />
+      <node id="Thapa" label="Thapa" />
+    </nodes>
+    <edges>
+      <edge source="burden" target="NCDs" id="0">
+        <attvalues>
+          <attvalue for="0" value="likely" />
+          <attvalue for="1" value="With increasing life expectancy, unhealthy diet, and sedentary lifestyle, the burden of NCDs is likely to increase in future." />
+        </attvalues>
+      </edge>
+      <edge source="verdict" target="Thapa" id="1">
+        <attvalues>
+          <attvalue for="0" value="one" />
+          <attvalue for="1" value="Former chief attorney of Madhes province Dipendra Jha who pleaded on behalf of Thapa said the court verdict was a balanced one as it allowed the assembly member with majority support to seek to form the government under Article 168 2 as long as an alternative was available." />
+        </attvalues>
+      </edge>
+      <edge source="Dahal" target="PM" id="2">
+        <attvalues>
+          <attvalue for="0" value="problem" />
+          <attvalue for="1" value="The Head of the Government wondered, Dont we formulate plan and programmes in an objective manner or is there a problem in the system of formulating the plans and programmes Expressing his qualm over lax implementation of the decisions and directives he issued since his appointment as the PM, Dahal opined that the major question lied whether we would get rid of the practice of making decisions but not implementing them." />
+        </attvalues>
+      </edge>
+      <edge source="Nepal" target="Dahal" id="3">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="Nepal is the member of IFADPrime Minister Dahal had left here for Italy on Saturday to attend the United Nations Food Systems Summit 2 Stocktaking Moment taking place at the FAO Headquarters in Rome of Italy." />
+        </attvalues>
+      </edge>
+      <edge source="Nepal" target="cent" id="4">
+        <attvalues>
+          <attvalue for="0" value="closer" />
+          <attvalue for="1" value="Sri Lanka with 98 per cent coverage, Nepal with 90 per cent and TimorLeste with 86 per cent are closer to prepandemic coverage of 99 per cent, 93 per cent and 90 per cent respectively." />
+        </attvalues>
+      </edge>
+      <edge source="Nepal" target="burden" id="5">
+        <attvalues>
+          <attvalue for="0" value="liable" />
+          <attvalue for="1" value="However, among adolescents, females were found to be more liable to commit to suicide compared to males, said Dulal, Nepal needs to make major decisions on resource reallocation and reorientation of the health system to prepare itself better for responding to the increasing burden of NCDs." />
+        </attvalues>
+      </edge>
+      <edge source="Nepal" target="NCDs" id="6">
+        <attvalues>
+          <attvalue for="0" value="liable" />
+          <attvalue for="1" value="However, among adolescents, females were found to be more liable to commit to suicide compared to males, said Dulal, Nepal needs to make major decisions on resource reallocation and reorientation of the health system to prepare itself better for responding to the increasing burden of NCDs." />
+        </attvalues>
+      </edge>
+      <edge source="formation" target="speaker" id="7">
+        <attvalues>
+          <attvalue for="0" value="violation" />
+          <attvalue for="1" value="The UML said formation of the new government in Koshi Province with the signature of the speaker was a blatant violation of the constitution, norms of parliamentary democracy and checks and balances." />
+        </attvalues>
+      </edge>
+      <edge source="formation" target="government" id="8">
+        <attvalues>
+          <attvalue for="0" value="unlawful" />
+          <attvalue for="1" value="SC Spokesperson Bimal Paudel said the court order did not mean the formation of the government was unlawful." />
+        </attvalues>
+      </edge>
+      <edge source="communities" target="Nepal" id="9">
+        <attvalues>
+          <attvalue for="0" value="nationalities" />
+          <attvalue for="1" value="Presenting the statistics that there are around 10.2 million indigenous nationalities in Nepal, the PM shared that 60 indigenous nationalities communities were enlisted so far and they have their own language and culture." />
+        </attvalues>
+      </edge>
+      <edge source="committee" target="justice" id="10">
+        <attvalues>
+          <attvalue for="0" value="responsible" />
+          <attvalue for="1" value="The parliamentary committee has to be responsible for incorporating the conflict victims issues with utmost priority in the amendment bill and form a competent, independent, and reliable commission through a trustworthy and transparent process to ensure justice to the victims community." />
+        </attvalues>
+      </edge>
+      <edge source="meeting" target="committee" id="11">
+        <attvalues>
+          <attvalue for="0" value="historic" />
+          <attvalue for="1" value="According to him, the fiveday meeting of the central committee was historic in terms of transformation of the entire country, communist campaign and party." />
+        </attvalues>
+      </edge>
+      <edge source="PM" target="Nepal" id="12">
+        <attvalues>
+          <attvalue for="0" value="nationalities" />
+          <attvalue for="1" value="Presenting the statistics that there are around 10.2 million indigenous nationalities in Nepal, the PM shared that 60 indigenous nationalities communities were enlisted so far and they have their own language and culture." />
+        </attvalues>
+      </edge>
+      <edge source="PM" target="speaker" id="13">
+        <attvalues>
+          <attvalue for="0" value="eager" />
+          <attvalue for="1" value="Giri said his party lawmakers were eager to listen to the PMs clarification in the House, but the PM himself told the speaker to defer the House meeting till tomorrow." />
+        </attvalues>
+      </edge>
+      <edge source="PM" target="meeting" id="14">
+        <attvalues>
+          <attvalue for="0" value="eager" />
+          <attvalue for="1" value="Giri said his party lawmakers were eager to listen to the PMs clarification in the House, but the PM himself told the speaker to defer the House meeting till tomorrow." />
+        </attvalues>
+      </edge>
+      <edge source="speaker" target="Nepal" id="15">
+        <attvalues>
+          <attvalue for="0" value="neutral" />
+          <attvalue for="1" value="The main opposition party said it was an accepted practice in Nepal and elsewhere that the speaker remains neutral and he she does not take sides during the formation of the government." />
+        </attvalues>
+      </edge>
+      <edge source="speaker" target="formation" id="16">
+        <attvalues>
+          <attvalue for="0" value="neutral" />
+          <attvalue for="1" value="UML has said that it is accepted practice in Nepal and elsewhere that the speaker remains neutral and does not take sides during formation of the government." />
+        </attvalues>
+      </edge>
+      <edge source="speaker" target="government" id="17">
+        <attvalues>
+          <attvalue for="0" value="neutral" />
+          <attvalue for="1" value="UML has said that it is accepted practice in Nepal and elsewhere that the speaker remains neutral and does not take sides during formation of the government." />
+        </attvalues>
+      </edge>
+      <edge source="justice" target="bench" id="18">
+        <attvalues>
+          <attvalue for="0" value="obligation" />
+          <attvalue for="1" value="There is a constitutional obligation that the chief justice should be involved in the constitutional bench." />
+        </attvalues>
+      </edge>
+      <edge source="cent" target="deaths" id="19">
+        <attvalues>
+          <attvalue for="0" value="due" />
+          <attvalue for="1" value="Achyut Raj Pandey, health system researcher HERD International suggests, If the disease pattern changes as it did between 1990 to 2019, approximately 79 per cent of deaths are likely to be due to NCDs in 2040 while CMNN diseases will be contributing 12 per cent of total deaths, with the remaining 9 per cent deaths due to other reasons." />
+        </attvalues>
+      </edge>
+      <edge source="cent" target="NCDs" id="20">
+        <attvalues>
+          <attvalue for="0" value="due" />
+          <attvalue for="1" value="Achyut Raj Pandey, health system researcher HERD International suggests, If the disease pattern changes as it did between 1990 to 2019, approximately 79 per cent of deaths are likely to be due to NCDs in 2040 while CMNN diseases will be contributing 12 per cent of total deaths, with the remaining 9 per cent deaths due to other reasons." />
+        </attvalues>
+      </edge>
+      <edge source="cent" target="Nepal" id="21">
+        <attvalues>
+          <attvalue for="0" value="option" />
+          <attvalue for="1" value="Improving efficiency within the health system and sparing additional resources for NCD control could be an option considering that almost 42 per cent of the progress towards achieving Universal Health Coverage targets by 2030 could be achieved by improving efficiency within the health system with the current level of resources available in low and middleincome countries like Nepal, he said, adding, Therefore, in the context where we have very limited additional resources that can be secured for NCDs in future, improving efficiency within the health system should be the top priority." />
+        </attvalues>
+      </edge>
+      <edge source="NCDs" target="cent" id="22">
+        <attvalues>
+          <attvalue for="0" value="responsible" />
+          <attvalue for="1" value="According to Nepal Burden of Disease Study 2019, noncommunicable diseases NCDs are responsible for almost 71 per cent of total deaths, while communicable, maternal neonatal and nutritional CMNN diseases account for 21 per cent and injuries account for 8 per cent of total deaths." />
+        </attvalues>
+      </edge>
+      <edge source="NCDs" target="deaths" id="23">
+        <attvalues>
+          <attvalue for="0" value="responsible" />
+          <attvalue for="1" value="According to Nepal Burden of Disease Study 2019, noncommunicable diseases NCDs are responsible for almost 71 per cent of total deaths, while communicable, maternal neonatal and nutritional CMNN diseases account for 21 per cent and injuries account for 8 per cent of total deaths." />
+        </attvalues>
+      </edge>
+      <edge source="bench" target="verdict" id="24">
+        <attvalues>
+          <attvalue for="0" value="neutral" />
+          <attvalue for="1" value="Citing the constitutional provision which clearly states that the role of the Speaker in the Province Assembly should be politically neutral and impartial, the apex court full bench in the verdict reminded that Article 186 of the Constitution of Nepal." />
+        </attvalues>
+      </edge>
+      <edge source="bench" target="Nepal" id="25">
+        <attvalues>
+          <attvalue for="0" value="neutral" />
+          <attvalue for="1" value="Citing the constitutional provision which clearly states that the role of the Speaker in the Province Assembly should be politically neutral and impartial, the apex court full bench in the verdict reminded that Article 186 of the Constitution of Nepal." />
+        </attvalues>
+      </edge>
+      <edge source="bench" target="justice" id="26">
+        <attvalues>
+          <attvalue for="0" value="justice" />
+          <attvalue for="1" value="In case there is no chief justice, the bench is headed by the senior most justice in the SCThe full bench of the Supreme Court will start hearing on the case from tomorrow." />
+        </attvalues>
+      </edge>
+      <edge source="bench" target="bench" id="27">
+        <attvalues>
+          <attvalue for="0" value="justice" />
+          <attvalue for="1" value="In case there is no chief justice, the bench is headed by the senior most justice in the SCThe full bench of the Supreme Court will start hearing on the case from tomorrow." />
+        </attvalues>
+      </edge>
+      <edge source="government" target="communities" id="28">
+        <attvalues>
+          <attvalue for="0" value="aware" />
+          <attvalue for="1" value="Prime Minister Pushpa Kamal Dahal has said the government was aware and committed to protection, promotion and development of all languages spoken by the indigenous communities of Nepal." />
+        </attvalues>
+      </edge>
+      <edge source="government" target="Nepal" id="29">
+        <attvalues>
+          <attvalue for="0" value="aware" />
+          <attvalue for="1" value="Prime Minister Pushpa Kamal Dahal has said the government was aware and committed to protection, promotion and development of all languages spoken by the indigenous communities of Nepal." />
+        </attvalues>
+      </edge>
+      <edge source="government" target="justice" id="30">
+        <attvalues>
+          <attvalue for="0" value="determined" />
+          <attvalue for="1" value="The government is determined to bring about quality and tangible changes in the life of citizens through the enhancement of social justice, good governance and prosperity, he said." />
+        </attvalues>
+      </edge>
+      <edge source="government" target="formation" id="31">
+        <attvalues>
+          <attvalue for="0" value="confusion" />
+          <attvalue for="1" value="In Koshi province, the province government led by CPNUML lost its majority and there was confusion about formation of a new government due to lack of a clear majority on both sides." />
+        </attvalues>
+      </edge>
+      <edge source="government" target="government" id="32">
+        <attvalues>
+          <attvalue for="0" value="confusion" />
+          <attvalue for="1" value="In Koshi province, the province government led by CPNUML lost its majority and there was confusion about formation of a new government due to lack of a clear majority on both sides." />
+        </attvalues>
+      </edge>
+      <edge source="deaths" target="NCDs" id="33">
+        <attvalues>
+          <attvalue for="0" value="due" />
+          <attvalue for="1" value="Of the total 198,463 deaths reported in the Housing and Population Census in the twelve months before the census, 98,736 deaths were due to NCDs." />
+        </attvalues>
+      </edge>
+      <edge source="Thapa" target="speaker" id="34">
+        <attvalues>
+          <attvalue for="0" value="minister" />
+          <attvalue for="1" value="While speaking at the Congress central committee meeting yesterday, Budhathoki had said it was a mistake to become the chief minister with the support of the speaker and questioned whether Thapa, who is also the Koshi Province president of the Congress, should be considered as the chief minister." />
+        </attvalues>
+      </edge>
+      <edge source="Thapa" target="government" id="35">
+        <attvalues>
+          <attvalue for="0" value="minister" />
+          <attvalue for="1" value="With this, the total of 46 votes of UMLRPP has decreased by one and is now 45.As no single party has majority in the Koshi government, Thapa became the chief minister under the provisions of Article 168 2 of the Constitution, which states that a member of the Province Assembly who can obtain majority with the support of two or more parties represented in the PA can be appointed chief minister." />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

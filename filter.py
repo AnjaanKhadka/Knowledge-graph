@@ -4,7 +4,7 @@ import re
 if __name__ == "__main__":
     df = pd.read_csv('scraped_data/contents.csv')
     
-    df = df[df['catagory'] == 'Nepal'].head(50)
+    # df = df[df['catagory'] == 'Nepal'].head(500)
     
     sentences = []
     for i,item in df.iterrows():
