@@ -25,28 +25,38 @@ Knowledge Graph made with 50 articles.
 
 ![image](https://github.com/AnjaanKhadka/Knowlege-graph/assets/43941329/aad4aa4d-763c-4d3f-a82e-7f11c9b5cd1c)
 
-I drew graph from 2000 aarticles from scraped data and used it to extract required information when necessary. When a questio is asked often subject, object or relationship is missing, by comparing it to the graph, This system can get related information to the question. Due to very low effort simplification of subject object relationship system, this system could not reliably used for information extraction.
+Strongly Connected graph from the larger graph.
 
-Requirements are listed in requirements.txt file. Use
+![image](https://github.com/AnjaanKhadka/Knowledge-graph/assets/43941329/6dab4f1e-d9ed-4528-b552-90014b5cc76d)
+
+
+I drew a graph from 2000 articles from scraped data and used it to extract the required information when necessary. When a question is asked often the subject, object or relationship is missing, by comparing it to the graph, This system can get related information to the question. Due to the very low-effort simplification of the subject-object relationship system, this system could not be reliably used for information extraction.
+
+Requirements are listed in the requirements.txt file. Use
 
     pip install -r requirements.txt 
 
 to install the requirements.
 
-To Scrae and collect information from web Use
+To Scrae and collect information from the web Use
 
     python scrape.py
 
-you can use more catagories or more pages from single catagories. Slightly edit the file to achieve just that.
+you can use more categories or more pages from single categories. Slightly edit the file to achieve just that.
 
-After collecting the data, filter the text using filter.py file. This cleans data from useless characters.
+After collecting the data, filter the text using the filter.py file. This cleans data from useless characters.
 
     python filter.py
 
-Then you can generate graph using generate_graph.py file
+Then you can generate graph using the generate_graph.py file
 
     python generate_graph.py
 
-After this process you can infer your model. Or you can directly infer my model. to infer model, above steps of scraping, filtering and generting graph can be skipped.
+After this process, you can infer your model. Or you can directly infer my model. to infer the model, the above steps of scraping, filtering, and generating a graph can be skipped.
 
     python infer.py
+
+Sample result for the model 
+
+![image](https://github.com/AnjaanKhadka/Knowledge-graph/assets/43941329/76f5e15b-e08b-49e4-a831-e7df4d52630c)
+
