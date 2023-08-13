@@ -1,4 +1,4 @@
-# Knowlege-graph
+# Knowledge-graph
 
 ## Scraping
 
